@@ -4,10 +4,12 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "gh-pages": "npm run build && npx gh-pages -d build"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^1.0.0",
+    "@sveltejs/adapter-static": "^2.0.2",
     "@sveltejs/kit": "^1.0.1",
     "autoprefixer": "^10.4.13",
     "daisyui": "^2.46.1",

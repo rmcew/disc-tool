@@ -1,5 +1,6 @@
 <script>
 	import '../app.css';
+  export const prerender = true;
   const logo = new URL('../images/glp-logo-head.png', import.meta.url).href
 </script>
 <div class="navbar h-30">
