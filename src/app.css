@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f1f1e6;
+  min-height: 100vh;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.62857;
+  color: #4a4a4a;
+}
+
+h1 {
+  line-height: 1.2;
+  font-size: 40px;
+  font-family: Merriweather, serif;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: .5rem;
+}

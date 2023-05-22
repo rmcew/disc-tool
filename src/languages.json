@@ -1,0 +1,71 @@
+{
+  "en": {
+    "name": "english",
+    "data": [
+      {
+        "set": 1,
+        "words": [
+          {
+            "id": 0,
+            "word": "Likes Control",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 1,
+            "word": "Enthusiastic",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 2,
+            "word": "Sensitive",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 3,
+            "word": "Consistent",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 2,
+        "words": [
+          {
+            "id": 4,
+            "word": "Confident",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 5,
+            "word": "Visionary",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 6,
+            "word": "Calm",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 7,
+            "word": "Reserved",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ru": {
+    "name": "русский"
+  },
+  "ar": {
+    "name": "عربي"
+  }
+}

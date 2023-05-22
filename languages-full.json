@@ -1,0 +1,559 @@
+{
+  "en": {
+    "name": "english",
+    "data": [
+      {
+        "set": 1,
+        "words": [
+          {
+            "id": 0,
+            "word": "Likes Control",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 1,
+            "word": "Enthusiastic",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 2,
+            "word": "Sensitive",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 3,
+            "word": "Consistent",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 2,
+        "words": [
+          {
+            "id": 4,
+            "word": "Confident",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 5,
+            "word": "Visionary",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 6,
+            "word": "Calm",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 7,
+            "word": "Reserved",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 3,
+        "words": [
+          { "id": 8, "word": "Firm", "leadershipType": "Dominance", "rank": 0 },
+          {
+            "id": 9,
+            "word": "Energetic",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 10,
+            "word": "Non-demanding",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 11,
+            "word": "Practical",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 4,
+        "words": [
+          {
+            "id": 12,
+            "word": "Likes Change",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 13,
+            "word": "Promoter",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 14,
+            "word": "Enjoys Routine",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 15,
+            "word": "Factual",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 5,
+        "words": [
+          {
+            "id": 16,
+            "word": "Problem Solver",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 17,
+            "word": "Mixes Easilty",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 18,
+            "word": "Relational",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 19,
+            "word": "Perfectionist",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 6,
+        "words": [
+          {
+            "id": 20,
+            "word": "Bold",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 21,
+            "word": "Fun-loving",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 22,
+            "word": "Adaptable",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 23,
+            "word": "Detailed",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 7,
+        "words": [
+          {
+            "id": 24,
+            "word": "Goal Driven",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 25,
+            "word": "Spontaneous",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 26,
+            "word": "Thoughtful",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 27,
+            "word": "Inquisitive",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 8,
+        "words": [
+          {
+            "id": 28,
+            "word": "Strong Willed",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 29,
+            "word": "Likes New Ideas",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 30,
+            "word": "Patient",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 31,
+            "word": "Persistent",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 9,
+        "words": [
+          {
+            "id": 32,
+            "word": "Self-reliant",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 33,
+            "word": "Optimistic",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 34,
+            "word": "Good Listenter",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 35,
+            "word": "Sensitive",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 10,
+        "words": [
+          {
+            "id": 36,
+            "word": "Directive",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 37,
+            "word": "Takes Risks",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 38,
+            "word": "Loyal",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 39,
+            "word": "Accurate",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 11,
+        "words": [
+          {
+            "id": 40,
+            "word": "Takes Charge",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 41,
+            "word": "Motivator",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 42,
+            "word": "Even-keeled",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 43,
+            "word": "Controlled",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 12,
+        "words": [
+          {
+            "id": 44,
+            "word": "Determined",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 45,
+            "word": "Very Verbal",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 46,
+            "word": "Gives in",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 47,
+            "word": "Predictable",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 13,
+        "words": [
+          {
+            "id": 48,
+            "word": "Enterprising",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 49,
+            "word": "Friendly",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 50,
+            "word": "Indecisive",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 51,
+            "word": "Orderly",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 14,
+        "words": [
+          {
+            "id": 52,
+            "word": "Competitive",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 53,
+            "word": "Popular",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 54,
+            "word": "Dislikes Change",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 55,
+            "word": "Conscientious",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 15,
+        "words": [
+          {
+            "id": 56,
+            "word": "Productive",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 57,
+            "word": "Enjoys Variety",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 58,
+            "word": "Dry Humor",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 59,
+            "word": "Discerning",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 16,
+        "words": [
+          {
+            "id": 60,
+            "word": "Purposeful",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 61,
+            "word": "Group-oriented",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 62,
+            "word": "Sympathetic",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 63,
+            "word": "Analytical",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 17,
+        "words": [
+          {
+            "id": 64,
+            "word": "Adventerous",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 65,
+            "word": "Initiator",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 66,
+            "word": "Nurturing",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 67,
+            "word": "Precise",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 18,
+        "words": [
+          {
+            "id": 68,
+            "word": "Independent",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 69,
+            "word": "Inspirational",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 70,
+            "word": "Tolerant",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 71,
+            "word": "Scheduled",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      },
+      {
+        "set": 19,
+        "words": [
+          {
+            "id": 72,
+            "word": "Action-oriented",
+            "leadershipType": "Dominance",
+            "rank": 0
+          },
+          {
+            "id": 73,
+            "word": "Likes Change",
+            "leadershipType": "Influence",
+            "rank": 0
+          },
+          {
+            "id": 74,
+            "word": "Peacemaker",
+            "leadershipType": "Steadiness",
+            "rank": 0
+          },
+          {
+            "id": 75,
+            "word": "Deliberate",
+            "leadershipType": "Conscientiousness",
+            "rank": 0
+          }
+        ]
+      }
+    ]
+  },
+  "ru": {
+    "name": "русский"
+  },
+  "ar": {
+    "name": "عربي"
+  }
+}
