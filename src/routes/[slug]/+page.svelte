@@ -4,4 +4,4 @@
 </script>
 
 {$page.params.slug}
-{$wordSetStore}
+{`words: ${JSON.stringify($wordSetStore)}`}
