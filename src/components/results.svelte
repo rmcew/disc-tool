@@ -2,7 +2,6 @@
 	import { scaleLinear, scaleBand } from 'd3-scale';
   import { slide } from 'svelte/transition';
 	import { wordSetStore } from '../stores/wordSet'
-	import { page } from '$app/stores'
 
 	function calculateTotalPoints(store) {
 		const points = [
@@ -22,14 +21,8 @@
 	}
 	$: totalPoints = calculateTotalPoints($wordSetStore)
 	$: console.log('totalPoints', totalPoints)
-	let points = [
-		{ id: 1, trait: "Dominance", weight: 28 },
-		{ id: 2, trait: "Influence", weight: 22 },
-		{ id: 3, trait: "Steadiness", weight: 15 }, 
-		{ id: 4, trait: "Compliance", weight: 11 },
-	];  
-	 
-$: traits = points.map(d => d.trait) 
+
+	$: traits = totalPoints.map(d => d.trait) 
 	
 	const xTicks = ["Dominance", "Influence", 'Steadiness', "Compliance"];
 	const yTicks = [0, 5, 10, 15, 20, 25, 30];
@@ -104,9 +97,9 @@ $: traits = points.map(d => d.trait)
 		opacity: 0.65;
 	}
 </style> 
- 
+
+<button on:click={() => window.print()} class="btn btn-wide btn-primary ">Next</button>
 <div class="container mx-auto">
-{totalPoints}
   <h1>Congratulations on completing the assessment!</h1>
   <p>Below you will find your unique combination for the personality profile.</p>
   <p>You are 28% Dominant</p>
@@ -132,7 +125,7 @@ $: traits = points.map(d => d.trait)
 
 		<!-- x axis -->    
 		<g class="axis x-axis">
-			{#each points as point (point.trait)}  
+			{#each totalPoints as point (point.trait)}  
 				<g class="tick" transform="translate({xScale(point.trait)},{height})">   
 					<text x="{barWidth/2}" y="-4">{width > 380 ? point.trait : formatMobile(point.trait)}</text>
 				</g> 
@@ -140,7 +133,7 @@ $: traits = points.map(d => d.trait)
 		</g> 
  
 		<g class='bars'> 
-			{#each points as point (point.trait)}  
+			{#each totalPoints as point (point.trait)}  
 				<rect
 					x="{xScale(point.trait)}"
 					y="{yScale(point.weight)}" 

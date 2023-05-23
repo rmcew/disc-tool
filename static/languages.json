@@ -9,25 +9,25 @@
             "id": 0,
             "word": "Likes Control",
             "leadershipType": "Dominance",
-            "rank": 0
+            "rank": null
           },
           {
             "id": 1,
             "word": "Enthusiastic",
             "leadershipType": "Influence",
-            "rank": 0
+            "rank": null
           },
           {
             "id": 2,
             "word": "Sensitive",
             "leadershipType": "Steadiness",
-            "rank": 0
+            "rank": null
           },
           {
             "id": 3,
             "word": "Consistent",
             "leadershipType": "Conscientiousness",
-            "rank": 0
+            "rank": null
           }
         ]
       },
@@ -38,25 +38,25 @@
             "id": 4,
             "word": "Confident",
             "leadershipType": "Dominance",
-            "rank": 0
+            "rank": null
           },
           {
             "id": 5,
             "word": "Visionary",
             "leadershipType": "Influence",
-            "rank": 0
+            "rank": null
           },
           {
             "id": 6,
             "word": "Calm",
             "leadershipType": "Steadiness",
-            "rank": 0
+            "rank": null
           },
           {
             "id": 7,
             "word": "Reserved",
             "leadershipType": "Conscientiousness",
-            "rank": 0
+            "rank": null
           }
         ]
       }

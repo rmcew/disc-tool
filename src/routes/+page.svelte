@@ -1,23 +1,26 @@
-
-
-
 <script lang="ts">
- import languages from '../languages.json';
- import {wordSetStore} from '../stores/wordSet.ts'
+	import { onMount } from 'svelte/internal';
+  let languages
+  async function fetchData() {
+      const response = await fetch('../../../languages.json');
+      languages = await response.json();
+    }
+    onMount(async () => {
+      await fetchData()
+    }) 
 </script>
 
+{#await fetchData() then}
+  <div class="flex flex-row justify-around">
+    {#each Object.entries(languages) as [lang, values]}
+    <a href='/en' class="btn md:btn-md lg:btn-lg basis-1/4"><span lang={lang}>{values.name}</span></a>
+    {/each}
+  </div>
+{/await}
 
-<div class="flex flex-row justify-around">
-  {#each Object.entries(languages) as [lang, values]}
-  <a href='/en' class="btn md:btn-md lg:btn-lg basis-1/4"><span lang={lang}>{values.name}</span></a>
-  {/each}
-</div>
 
 <style>
   .btn {
     background-color: #46709f
   }
-  .container {
-    padding-top: 10vh;
-	}
 </style>

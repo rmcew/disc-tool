@@ -5,7 +5,7 @@
 </script>
 <div class="navbar h-30">
   <div class="navbar-start">
-    <img src={logo}/>
+    <img src={logo} alt='global leadership partners logo'/>
   </div>
   <div class="navbar-center">
     <a href='/' class="btn btn-ghost normal-case text-xl">DISC Assessment</a>

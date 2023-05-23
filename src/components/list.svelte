@@ -45,7 +45,7 @@
 				const wordIndex = sets.data[pageNumber].words.findIndex(word => word.id === wordId);
 				if(wordIndex > -1) {
 					console.log ('setting ', sets.data[pageNumber].words[wordIndex].word, 'to ', newRank)
-					sets.data[pageNumber].words[wordIndex].rank = newRank;
+					sets.data[pageNumber].words[wordIndex].rank = Number(newRank);
 					console.log(typeof newRank)
 				}
 			return sets; // return the updated store
@@ -59,10 +59,7 @@
 
 	function handleFinalize(e) {
 		items = e.detail.items;
-		console.log(testValue)
-		console.log(pageNumber, e.detail.items[0].id, testValue)
 		updateWordRank(pageNumber, e.detail.items[0].id, testValue)
-		console.log($wordSetStore)
 	}	
 
 </script>

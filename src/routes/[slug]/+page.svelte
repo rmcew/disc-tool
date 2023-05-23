@@ -1,12 +1,3 @@
-<script>
-  import { page } from '$app/stores'
-  import List from '../../components/list.svelte'
-  import languages from '../../languages.json';
-  import { wordSetStore } from '../../stores/wordSet'
-
-  wordSetStore.set(languages[$page.params.slug])
-</script>
-
 <div class="flex justify-center m-5">
   <h1>DISC Assessment Tool</h1>
 </div>
