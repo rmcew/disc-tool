@@ -2,8 +2,15 @@
  import { page } from '$app/stores'
  import { wordSetStore } from '../../stores/wordSet';
  import languages from '../languages.json'
- wordSetStore.set(languages[$page.params.slug])
+ let invalidUrl = false
+ if (languages[$page.params.slug]){
+     wordSetStore.set(languages[$page.params.slug])
+ }
+ else {
+    invalidUrl = true
+ }
 </script>
+
 
 {$page.params.slug}
 {languages[$page.params.slug].name}
