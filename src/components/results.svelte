@@ -2,6 +2,8 @@
 	import { scaleLinear, scaleBand } from 'd3-scale';
   import { slide } from 'svelte/transition';
 	import { wordSetStore } from '../stores/wordSet'
+	import html2pdf from 'html2pdf.js'
+
 
 	function calculateTotalPoints(store) {
 		const points = [
@@ -98,7 +100,6 @@
 	}
 </style> 
 
-<button on:click={() => window.print()} class="btn btn-wide btn-primary ">Next</button>
 <div class="container mx-auto">
   <h1>Congratulations on completing the assessment!</h1>
   <p>Below you will find your unique combination for the personality profile.</p>
@@ -145,3 +146,4 @@
 		</g>
 	</svg>
 </div>
+<button on:click={() => html2pdf(document.getElementById('body'))} class="btn btn-wide btn-primary ">Download Results</button>

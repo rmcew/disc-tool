@@ -1,3 +1,15 @@
+<script lang="ts">
+  import { page } from "$app/stores"
+	import { onMount } from "svelte";
+  const lang = $page.params.slug
+  onMount(() => {
+    const textDir = $page.params.slug === 'ar' ? 'rtl' : 'ltr'
+    document.getElementById('main')?.setAttribute('lang', $page.params.slug)
+    document.getElementById('main')?.setAttribute('dir', textDir)
+  })
+</script>
+
+
 <div class="flex justify-center m-5">
   <h1>DISC Assessment Tool</h1>
 </div>
@@ -10,6 +22,6 @@
 </div>
 
 <div class="flex justify-center mt-6">
-  <a href='/en/test' class="btn btn-wide"><span>Begin assessment</span></a>
+  <a href='/{lang}/test' class="btn btn-wide"><span>Begin assessment</span></a>
 </div>
 

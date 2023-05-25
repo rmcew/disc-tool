@@ -13,7 +13,7 @@
 {#await fetchData() then}
   <div class="flex flex-row justify-around">
     {#each Object.entries(languages) as [lang, values]}
-    <a href='/en' class="btn md:btn-md lg:btn-lg basis-1/4"><span lang={lang}>{values.name}</span></a>
+    <a href='/{lang}' class="btn md:btn-md lg:btn-lg basis-1/4"><span lang={lang}>{values.name}</span></a>
     {/each}
   </div>
 {/await}

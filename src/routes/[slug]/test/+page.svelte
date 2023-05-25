@@ -7,6 +7,7 @@
   async function fetchData() {
     const response = await fetch('../../../languages.json');
     const languageSet = await response.json();
+    console.log('lagns', languageSet[$page.params.slug])
     wordSetStore.set(languageSet[$page.params.slug])
     words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
     maxPageNumber = $wordSetStore.data.length
@@ -56,9 +57,7 @@
 
 {#await fetchData() then}
   {#if !showResults}
-  <Results /> 
-
-  <div class="available flex w-full">
+  <div class="available flex w-full h-50">
     <List items={words} type='available' reset bind:ready />
     <div class="divider divider-horizontal"></div>
     <div class="flex flex-col w-full">
@@ -75,13 +74,6 @@
   </div>
 
   {:else}
-  <Results /> 
-  showResult
-
+    <Results /> 
   {/if}
-
 {/await}
-
-<style>
-
-</style>

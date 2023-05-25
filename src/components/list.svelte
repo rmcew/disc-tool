@@ -30,7 +30,6 @@
 	export let type;
 	export let ready
 	export let placeholder
-	export let reset
 	export let testValue
 	export let pageNumber
 	
@@ -65,9 +64,6 @@
 </script>
 
  <div class="flex flex-col justify-evenly w-full place-items-center {type}" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>
-  {#if !items.length && type === 'available'}
-		<button onClick={reset} class="btn btn-wide">Reset</button>
-	{/if}
   {#if !items.length && type === 'answer'}
 		<span style="text-align:left; color: grey">{placeholder}</span>
 	{/if}
