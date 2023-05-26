@@ -1,5 +1,6 @@
 <script>
 	import '../app.css';
+  import { base } from '$app/paths'
   export const prerender = true;
   const logo = new URL('../images/glp-logo-head.png', import.meta.url).href
 </script>
@@ -8,7 +9,7 @@
     <img src={logo} alt='global leadership partners logo'/>
   </div>
   <div class="navbar-center">
-    <a href='/' class="btn btn-ghost normal-case text-xl">DISC Assessment</a>
+    <a href='{base}/' class="btn btn-ghost normal-case text-xl">DISC Assessment</a>
   </div>
   <div class="navbar-end">
   </div>

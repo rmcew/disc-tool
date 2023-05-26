@@ -1,6 +1,7 @@
 <script lang="ts">
   import { page } from "$app/stores"
 	import { onMount } from "svelte";
+  import { base } from '$app/paths'
   const lang = $page.params.slug
   onMount(() => {
     const textDir = $page.params.slug === 'ar' ? 'rtl' : 'ltr'
@@ -22,6 +23,6 @@
 </div>
 
 <div class="flex justify-center mt-6">
-  <a href='/{lang}/test' class="btn btn-wide"><span>Begin assessment</span></a>
+  <a href='{base}/{lang}/test' class="btn btn-wide"><span>Begin assessment</span></a>
 </div>
 
