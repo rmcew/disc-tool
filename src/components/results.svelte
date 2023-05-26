@@ -2,8 +2,14 @@
 	import { scaleLinear, scaleBand } from 'd3-scale';
   import { slide } from 'svelte/transition';
 	import { wordSetStore } from '../stores/wordSet'
-	import html2pdf from 'html2pdf.js'
-
+	import { onMount } from 'svelte';
+	let html2pdf
+	onMount(async () =>{
+		if (window) {
+			const module = await import ('html2pdf.js')
+			html2pdf = module.default
+		}
+	})
 
 	function calculateTotalPoints(store) {
 		const points = [
