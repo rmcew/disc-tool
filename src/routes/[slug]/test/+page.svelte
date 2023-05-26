@@ -5,7 +5,7 @@
   import { page } from '$app/stores'
   let words, maxPageNumber
   async function fetchData() {
-    const response = await fetch('../../../languages.json');
+    const response = await fetch(`${page}/languages.json`);
     const languageSet = await response.json();
     console.log('lagns', languageSet[$page.params.slug])
     wordSetStore.set(languageSet[$page.params.slug])

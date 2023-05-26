@@ -3,7 +3,7 @@
   import { base } from '$app/paths'
   let languages
   async function fetchData() {
-      const response = await fetch('../../../languages.json');
+      const response = await fetch(`${base}/languages.json`);
       languages = await response.json();
     }
     onMount(async () => {
