@@ -3,9 +3,11 @@
   import { wordSetStore } from '../../../stores/wordSet'
   import Results from '../../../components/results.svelte'
   import { page } from '$app/stores'
+  import { base } from '$app/paths'
+
   let words, maxPageNumber
   async function fetchData() {
-    const response = await fetch(`${page}/languages.json`);
+    const response = await fetch(`${base}/languages.json`);
     const languageSet = await response.json();
     console.log('lagns', languageSet[$page.params.slug])
     wordSetStore.set(languageSet[$page.params.slug])
