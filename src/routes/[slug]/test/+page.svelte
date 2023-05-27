@@ -69,12 +69,10 @@
       <List items={items4} type='answer' testValue=0 bind:pageNumber placeholder="Not at all"/>
     </div>
   </div>
-
   <div class="flex justify-center space-x-2 mt-6">
-    <button on:click={handleReset} class="btn btn-wide btn-secondary ">Reset</button>
-    <button on:click={handleNext} class="btn btn-wide btn-primary {ready ? '': 'btn-disabled'}">Next</button>
+    <button on:click={handleReset} class="btn md:btn-wide btn-secondary ">Reset</button>
+    <button on:click={handleNext} class="btn md:btn-wide btn-primary {ready ? '': 'btn-disabled'}">Next</button>
   </div>
-
   {:else}
     <Results /> 
   {/if}

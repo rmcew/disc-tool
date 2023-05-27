@@ -14,6 +14,5 @@ export default {
 			paths: {
 				base: process.env.BASE_PATH ?? ''
 			}
-	}
+		}
 };
-

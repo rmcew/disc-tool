@@ -1,5 +1,7 @@
 <style>
-
+	.answer.answer .rounded-box {
+		margin: 0;
+	}
 	.rounded-box {
 		margin: 0.2em;
 		padding: 0.3em;
@@ -10,6 +12,7 @@
 		width: 100%;
 		text-align: center;
 		border: 1px solid black;
+		min-height: 13vh;
 	}
 
 	.answer {

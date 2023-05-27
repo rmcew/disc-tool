@@ -29,7 +29,6 @@
 	}
 	$: totalPoints = calculateTotalPoints($wordSetStore)
 	$: console.log('totalPoints', totalPoints)
-
 	$: traits = totalPoints.map(d => d.trait) 
 	
 	const xTicks = ["Dominance", "Influence", 'Steadiness', "Compliance"];
@@ -105,51 +104,52 @@
 		opacity: 0.65;
 	}
 </style> 
+<div id='results'>
+	<div class="container mx-auto">
+		<h1>Congratulations on completing the assessment!</h1>
+		<p>Below you will find your unique combination for the personality profile.</p>
+		<p>You are 28% Dominant</p>
+		<p>You are type D. You probably already knew that. You like immediate results; you love action,
+		and you accept any challenge. You are the type of person who makes decisions quickly and does
+		not have much patience with those who are calm and do not know how to adapt easily. You like
+		direct answers, you work focused, and you appreciate logical things. You are bored with long
+		meetings and lots of talking. When you are in a group and a leader is needed, you are one of the
+		few who want to take over. There are no problems to be afraid of, in fact, you are happy to
+		solve anything</p>
+	</div>
+	<div class="chart" bind:clientWidth={width} bind:clientHeight={height}>
+		<svg>
+			<!-- y axis -->
+			<g class="axis y-axis" transform="translate(0,{padding.top})">
+				{#each yTicks as tick}
+					<g class="tick tick-{tick}" transform="translate(0, {yScale(tick) - padding.bottom})">
+						<line x2="100%"></line> 
+						<text y="-4">{tick}</text>
+					</g>   
+				{/each}   
+			</g>  
 
-<div class="container mx-auto">
-  <h1>Congratulations on completing the assessment!</h1>
-  <p>Below you will find your unique combination for the personality profile.</p>
-  <p>You are 28% Dominant</p>
-  <p>You are type D. You probably already knew that. You like immediate results; you love action,
-  and you accept any challenge. You are the type of person who makes decisions quickly and does
-  not have much patience with those who are calm and do not know how to adapt easily. You like
-  direct answers, you work focused, and you appreciate logical things. You are bored with long
-  meetings and lots of talking. When you are in a group and a leader is needed, you are one of the
-  few who want to take over. There are no problems to be afraid of, in fact, you are happy to
-  solve anything</p>
+			<!-- x axis -->    
+			<g class="axis x-axis">
+				{#each totalPoints as point (point.trait)}  
+					<g class="tick" transform="translate({xScale(point.trait)},{height})">   
+						<text x="{barWidth/2}" y="-4">{width > 380 ? point.trait : formatMobile(point.trait)}</text>
+					</g> 
+				{/each} 
+			</g> 
+	
+			<g class='bars'> 
+				{#each totalPoints as point (point.trait)}  
+					<rect
+						x="{xScale(point.trait)}"
+						y="{yScale(point.weight)}" 
+						width="{barWidth - 4}" 
+						height="{height - padding.bottom - yScale(point.weight)}"
+						out:slide="{{duration: 1000}}"
+					></rect> 
+				{/each}
+			</g>
+		</svg>
+	</div>
 </div>
-<div class="chart" bind:clientWidth={width} bind:clientHeight={height}>
-	<svg>
-		<!-- y axis -->
-		<g class="axis y-axis" transform="translate(0,{padding.top})">
-			{#each yTicks as tick}
-				<g class="tick tick-{tick}" transform="translate(0, {yScale(tick) - padding.bottom})">
-					<line x2="100%"></line> 
-					<text y="-4">{tick}</text>
-				</g>   
-			{/each}   
-		</g>  
-
-		<!-- x axis -->    
-		<g class="axis x-axis">
-			{#each totalPoints as point (point.trait)}  
-				<g class="tick" transform="translate({xScale(point.trait)},{height})">   
-					<text x="{barWidth/2}" y="-4">{width > 380 ? point.trait : formatMobile(point.trait)}</text>
-				</g> 
-			{/each} 
-		</g> 
- 
-		<g class='bars'> 
-			{#each totalPoints as point (point.trait)}  
-				<rect
-					x="{xScale(point.trait)}"
-					y="{yScale(point.weight)}" 
-					width="{barWidth - 4}" 
-					height="{height - padding.bottom - yScale(point.weight)}"
-					out:slide="{{duration: 1000}}"
-				></rect> 
-			{/each}
-		</g>
-	</svg>
-</div>
-<button on:click={() => html2pdf(document.getElementById('body'))} class="btn btn-wide btn-primary ">Download Results</button>
+<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
