@@ -12,7 +12,7 @@
 		width: 100%;
 		text-align: center;
 		border: 1px solid black;
-		min-height: 13vh;
+		min-height: 5vh;
 	}
 
 	.answer {
