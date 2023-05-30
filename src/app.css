@@ -10,7 +10,7 @@ body {
   font-weight: 400;
   line-height: 1.62857;
   color: #4a4a4a;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 h1 {
