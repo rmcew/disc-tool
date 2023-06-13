@@ -38,6 +38,7 @@
 	"type": "module",
 	"dependencies": {
 		"d3-scale": "^4.0.2",
-		"html2pdf.js": "^0.10.1"
+		"html2pdf.js": "^0.10.1",
+		"lodash": "^4.17.21"
 	}
 }

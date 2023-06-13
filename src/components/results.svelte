@@ -3,6 +3,8 @@
   import { slide } from 'svelte/transition';
 	import { wordSetStore } from '../stores/wordSet'
 	import { onMount } from 'svelte';
+	import { sortBy } from 'lodash'
+
 	let html2pdf
 	onMount(async () =>{
 		if (window) {
@@ -13,10 +15,10 @@
 
 	function calculateTotalPoints(store) {
 		const points = [
-			{ id: 0, trait: "Dominance", weight: 0 },
-			{ id: 1, trait: "Influence", weight: 0 },
-			{ id: 2, trait: "Steadiness", weight: 0 }, 
-			{ id: 3, trait: "Conscientiousness", weight: 0 },
+			{ id: 0, trait: "Dominance", weight: 0, color: 'rgb(0, 112, 192)' },
+			{ id: 1, trait: "Influence", weight: 0, color: 'rgb(255,192,0)' },
+			{ id: 2, trait: "Steadiness", weight: 0, color: 'rgb(112,173,71)'}, 
+			{ id: 3, trait: "Conscientiousness", weight: 0, color: 'red' },
 		]
 		store.data.map(page => {
 			console.log('page', page)
@@ -27,9 +29,10 @@
 		})
 		return points
 	}
-	$: totalPoints = calculateTotalPoints($wordSetStore)
-	$: console.log('totalPoints', totalPoints)
+	$: totalPoints = calculateTotalPoints($wordSetStore) 
+	$: sorted = sortBy(totalPoints, 'weight')
 	$: traits = totalPoints.map(d => d.trait) 
+	$: console.log(totalPoints)
 	
 	const xTicks = ["Dominance", "Influence", 'Steadiness', "Compliance"];
 	const yTicks = [0, 5, 10, 15, 20, 25, 30];
@@ -87,6 +90,8 @@
 	.tick text {
 		fill: #4a4a4a; 
 		text-anchor: start;
+	} .dominance{
+			fill: rgb(0, 112, 192);
 	}
  
 	.tick.tick-0 line {   
@@ -105,18 +110,22 @@
 	}
 </style> 
 <div id='results'>
-	<div class="container mx-auto">
-		<h1>Congratulations on completing the assessment!</h1>
-		<p>Below you will find your unique combination for the personality profile.</p>
-		<p>You are 28% Dominant</p>
-		<p>You are type D. You probably already knew that. You like immediate results; you love action,
-		and you accept any challenge. You are the type of person who makes decisions quickly and does
-		not have much patience with those who are calm and do not know how to adapt easily. You like
-		direct answers, you work focused, and you appreciate logical things. You are bored with long
-		meetings and lots of talking. When you are in a group and a leader is needed, you are one of the
-		few who want to take over. There are no problems to be afraid of, in fact, you are happy to
-		solve anything</p>
+	<h1>Congratulations on completing the assessment!</h1>
+
+	<div class="container mx-auto pb-8">
+		<p>Your primary personality profile is: {sorted[3].trait}</p>
+		<p>Your secondary personality profile is: {sorted[2].trait}</p>
+
 	</div>
+	<div class="container mx-auto">
+		<p><span style='color:rgb(0,112,192)'>Dominance</span> profile solves challenges, drives action and results, and moves at a fast pace.</p>
+		<p><span style='color:rgb(255,192,0)'>Influence</span> profile gains energy from people, interviews well, is enthusiastic, and prefers group participation.</p>
+		<p><span style='color:rgb(112,173,71)'>Steadiness</span> profile is loyal, listens well, employs specialized skills, and uses a calm, steady approach.</p>
+		<p><span style='color:red'>Compliance</span> profile follows standards, focuses on details, thinks analytically, and acts diplomatically. </p>
+		<p>We are all a blend of the 4 personality types which combine to make each of us unique.	</p>
+	</div>
+
+
 	<div class="chart" bind:clientWidth={width} bind:clientHeight={height}>
 		<svg>
 			<!-- y axis -->
@@ -140,7 +149,7 @@
 	
 			<g class='bars'> 
 				{#each totalPoints as point (point.trait)}  
-					<rect
+					<rect style='fill: {point.color}' 
 						x="{xScale(point.trait)}"
 						y="{yScale(point.weight)}" 
 						width="{barWidth - 4}" 

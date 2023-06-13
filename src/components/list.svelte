@@ -63,7 +63,6 @@
 		items = e.detail.items;
 		updateWordRank(pageNumber, e.detail.items[0].id, testValue)
 	}	
-
 </script>
 
  <div class="flex flex-col justify-evenly w-full place-items-center {type}" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>

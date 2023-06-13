@@ -16,10 +16,9 @@
 </div>
 
 <div class="sm:container sm:mx-auto m-10">
-  <p>DISC is the most relevant personality test used in the professional environment. Dominant,
-  Influential, Stable and Conscientious. It is important to know that no human being has only one
-  profile. Each individual is a unique combination of percentages of each. At the end of the test,
-  you will find out what your unique combination is!</p>
+  <p>
+    This is a simple but powerful personality assessment based on the well-known DISC methodology. To complete the assessment, rank groups of words according to how they best match your view of yourself. This should take 10 minutes at most. After completing the assessment, you will receive immediate results. Bring these to the upcoming seminar, at which you will hear a full explanation of each personality type and learn how to be more effective within yours. See you at the seminar!
+  </p>
 </div>
 
 <div class="flex justify-center mt-6">
