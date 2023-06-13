@@ -108,13 +108,18 @@
 		stroke: none;   
 		opacity: 0.65;
 	}
+
+	.results {
+		text-align: center;
+		padding-bottom: 3vh;
+	}
 </style> 
 <div id='results'>
 	<h1>Congratulations on completing the assessment!</h1>
 
-	<div class="container mx-auto pb-8">
-		<p>Your primary personality profile is: {sorted[3].trait}</p>
-		<p>Your secondary personality profile is: {sorted[2].trait}</p>
+	<div class="container mx-auto results">
+		<p>Your primary personality profile is: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[3].color}'>{sorted[3].trait}</span></p>
+		<p>Your secondary personality profile is: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[2].color}'>{sorted[2].trait}</span></p>
 
 	</div>
 	<div class="container mx-auto">
