@@ -166,4 +166,6 @@
 		</svg>
 	</div>
 </div>
-<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
+<div style='display: flex;margin: 0 auto;flex-wrap: wrap;justify-content: center;'>
+	<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
+</div>
