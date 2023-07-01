@@ -5,15 +5,21 @@
   import { page } from '$app/stores'
   import { base } from '$app/paths'
 
-  let words, maxPageNumber
+  let words, maxPageNumber, options, ready
   async function fetchData() {
     const response = await fetch(`${base}/languages.json`);
     const languageSet = await response.json();
-    console.log('lagns', languageSet[$page.params.slug])
     wordSetStore.set(languageSet[$page.params.slug])
     words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
     maxPageNumber = $wordSetStore.data.length
+    options = {
+      first: words[0],
+      second: words[1],
+      third: words[2],
+      fourth: words[3]
+    }    
   }
+
 
   $:if ($wordSetStore) {
     words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
@@ -21,8 +27,9 @@
 
   let pageNumber = 0
   let showResults = false
-  let ready = false
-  let items1, items2, items3, items4 = []
+  let items1 = [], items2 = [], items3 = [], items4 = []
+
+  $: ready = !$wordSetStore?.data[pageNumber]?.words.some(word => word.rank === null)
 
   function handleNext() {
     if (pageNumber === maxPageNumber-1){
@@ -30,6 +37,12 @@
     }
     else {
       pageNumber++
+      options = {
+        first: $wordSetStore.data[pageNumber].words[0],
+        second: $wordSetStore.data[pageNumber].words[1],
+        third: $wordSetStore.data[pageNumber].words[2],
+        fourth: $wordSetStore.data[pageNumber].words[3]
+      }      
       items1 = []
       items2 = []
       items3 = []
@@ -49,6 +62,13 @@
       };
       return updatedWordSets;
     });
+    words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
+    options = {
+      first: words[0],
+      second: words[1],
+      third: words[2],
+      fourth: words[3]
+    }  
     items1 = []
     items2 = []
     items3 = []
@@ -60,13 +80,18 @@
 {#await fetchData() then}
   {#if !showResults}
   <div class="available flex w-full h-50">
-    <List items={words} type='available' reset bind:ready />
+    <div class="flex flex-col w-full">
+      <List items={[options.first]} bind:pageNumber />   
+      <List items={[options.second]} bind:pageNumber />   
+      <List items={[options.third]} bind:pageNumber />   
+      <List items={[options.fourth]} bind:pageNumber />   
+    </div>
     <div class="divider divider-horizontal"></div>
     <div class="flex flex-col w-full">
-      <List items={items1} type='answer' testValue=3 bind:pageNumber placeholder="Very much"/>   
-      <List items={items2} type='answer' testValue=2 bind:pageNumber placeholder="In most cases"/>   
-      <List items={items3} type='answer' testValue=1 bind:pageNumber placeholder="A little bit"/>   
-      <List items={items4} type='answer' testValue=0 bind:pageNumber placeholder="Not at all"/>
+      <List items={items1} testValue=3 bind:pageNumber placeholder="Very much"/>   
+      <List items={items2} testValue=2 bind:pageNumber placeholder="In most cases"/>   
+      <List items={items3} testValue=1 bind:pageNumber placeholder="A little bit"/>   
+      <List items={items4} testValue=0 bind:pageNumber placeholder="Not at all"/>
     </div>
   </div>
   <div class="flex justify-evenly space-x-2 mt-6">

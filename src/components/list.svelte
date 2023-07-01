@@ -5,14 +5,8 @@
 	.rounded-box {
 		margin: 0.2em;
 		padding: 0.3em;
-	}
-
-	.available {
-		height: 100%;
-		width: 100%;
-		text-align: center;
-		border: 1px solid black;
-		min-height: 5vh;
+		background-color: #3e5387; 
+		color: white;
 	}
 
 	.answer {
@@ -30,15 +24,14 @@
 	const flipDurationMs = 100;
 	
 	export let items = [];
-	export let type;
 	export let ready
 	export let placeholder
 	export let testValue
 	export let pageNumber
 	
 
-	const MAX_ALLOWED = type === 'available' ? 4 : 1;
-	$: dropFromOthersDisabled = (items.length === MAX_ALLOWED); 
+	const MAX_ALLOWED = 1;
+	$: dropFromOthersDisabled = (items.length === MAX_ALLOWED || !placeholder); 
 	$: ready = items.length === 0
 
 	const updateWordRank = (pageNumber, wordId, newRank) => {
@@ -46,9 +39,7 @@
 			wordSetStore.update(sets => {
 				const wordIndex = sets.data[pageNumber].words.findIndex(word => word.id === wordId);
 				if(wordIndex > -1) {
-					console.log ('setting ', sets.data[pageNumber].words[wordIndex].word, 'to ', newRank)
 					sets.data[pageNumber].words[wordIndex].rank = Number(newRank);
-					console.log(typeof newRank)
 				}
 			return sets; // return the updated store
 			});
@@ -65,12 +56,12 @@
 	}	
 </script>
 
- <div class="flex flex-col justify-evenly w-full place-items-center {type}" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>
-  {#if !items.length && type === 'answer'}
+ <div class="flex flex-col justify-evenly w-full place-items-center answer" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>
+  {#if placeholder && !items.length > 0 }
 		<span style="text-align:left; color: grey">{placeholder}</span>
 	{/if}
   {#each items as item(item.id)}
-    <div class="rounded-box" style={'background-color:#3e5387; color: white'} animate:flip={{duration:flipDurationMs}}>
+    <div class="rounded-box" animate:flip={{duration:flipDurationMs}}>
       {item.word}	
     </div>
   {/each}

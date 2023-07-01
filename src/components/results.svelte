@@ -42,7 +42,7 @@
 	let height = 200; 
 
 	function formatMobile(tick) {
-		return "'" + tick.toString().slice(-2);
+		return tick[0];
 	} 
 	
 	$: xScale = scaleBand()
@@ -78,7 +78,6 @@
 
 	.tick {
 		font-family: Helvetica, Arial;
-		font-size: .725em;
 		font-weight: 200;
 	}
 
@@ -146,7 +145,7 @@
 			<!-- x axis -->    
 			<g class="axis x-axis">
 				{#each totalPoints as point (point.trait)}  
-					<g class="tick" transform="translate({xScale(point.trait)},{height})">   
+					<g class="tick text-md" transform="translate({xScale(point.trait)},{height})">   
 						<text x="{barWidth/2}" y="-4">{width > 380 ? point.trait : formatMobile(point.trait)}</text>
 					</g> 
 				{/each} 

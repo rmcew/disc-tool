@@ -14,7 +14,7 @@
   <div class="navbar-end flex-grow">
   </div>
 </div>
-<div class="container mx-auto">
+<div class="container mx-auto flex flex-col pb-0.5">
 <slot />
 </div>
 

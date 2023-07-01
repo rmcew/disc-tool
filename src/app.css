@@ -11,6 +11,7 @@ body {
   line-height: 1.62857;
   color: #4a4a4a;
   overflow-x: hidden;
+  overscroll-behavior: none;
 }
 
 h1 {
