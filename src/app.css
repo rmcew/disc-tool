@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html, body {
+  height: 100%
+}
+
 body {
   background-color: #f1f1e6;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
@@ -11,11 +15,6 @@ body {
   color: #4a4a4a;
   overflow-x: hidden;
   overscroll-behavior: none;
-  /* mobile viewport bug fix */
-  min-height: 100vh;            /* fall-back */
-  min-height: -moz-available;
-  min-height: -webkit-fill-available;
-  min-height: fill-available;
 }
 
 h1 {
