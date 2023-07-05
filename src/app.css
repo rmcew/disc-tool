@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body {
-  height: 100%
-}
 
 body {
   background-color: #f1f1e6;
@@ -14,7 +11,8 @@ body {
   line-height: 1.62857;
   color: #4a4a4a;
   overflow-x: hidden;
-  overscroll-behavior: none;
+  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
+  height: calc(var(--vh, 1vh) * 100);
 }
 
 h1 {

@@ -114,7 +114,7 @@
 	}
 </style> 
 <div id='results'>
-	<h1>Congratulations on completing the assessment!</h1>
+	<h1 class="text-3xl md:text-4xl">Congratulations on completing the assessment!</h1>
 
 	<div class="container mx-auto results">
 		<p>Your primary personality profile is: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[3].color}'>{sorted[3].trait}</span></p>
