@@ -4,7 +4,6 @@
 
 body {
   background-color: #f1f1e6;
-  min-height: 100vh;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -13,7 +12,10 @@ body {
   overflow-x: hidden;
   overscroll-behavior: none;
   /* mobile viewport bug fix */
-  height: calc(var(--vh, 1vh) * 100);
+  min-height: 100vh;            /* fall-back */
+  min-height: -moz-available;
+  min-height: -webkit-fill-available;
+  min-height: fill-available;
 }
 
 h1 {
