@@ -12,7 +12,8 @@ body {
   color: #4a4a4a;
   overflow-x: hidden;
   overscroll-behavior: none;
-  overflow-y: hidden;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
 }
 
 h1 {
