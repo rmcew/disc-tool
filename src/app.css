@@ -13,7 +13,7 @@ body {
   overflow-x: hidden;
   overscroll-behavior: none;
   /* mobile viewport bug fix */
-  min-height: -webkit-fill-available;
+  height: calc(var(--vh, 1vh) * 100);
 }
 
 h1 {
