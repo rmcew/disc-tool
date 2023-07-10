@@ -11,8 +11,6 @@ body {
   line-height: 1.62857;
   color: #4a4a4a;
   overflow-x: hidden;
-  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
-  height: calc(var(--vh, 1vh) * 100);
 }
 
 h1 {

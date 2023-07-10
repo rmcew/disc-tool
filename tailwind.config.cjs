@@ -1,6 +1,16 @@
 module.exports = {
   content: ['./src/routes/**/*.{svelte,js,ts}'],
   plugins: [require('daisyui')],
+  daisyui: {
+    themes: [
+      {
+        corporate: {
+          ...require("daisyui/src/colors/themes")["[data-theme=corporate]"],
+          "background-color": "#f1f1e6"
+        },
+      },
+    ],
+  },  
   theme: {
     container: {
       padding: {
