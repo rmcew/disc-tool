@@ -29,4 +29,9 @@
   img {
     max-width: 20vh;
   }
+  .container {
+    height: 100vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;    
+  }
 </style>
