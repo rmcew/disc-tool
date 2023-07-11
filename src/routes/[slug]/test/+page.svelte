@@ -80,6 +80,11 @@
 
 {#await fetchData() then}
   {#if !showResults}
+  <div class="flex-none sm:container sm:mx-auto mx-10" style="text-align: center">
+    <p>
+      Drag and drop the words into a ranked order that most closely fits your view of yourself.
+    </p>
+  </div>  
   <div class="available flex w-full h-50 pb-3">
     <div class="flex flex-col w-full">
       <List items={[options.first]} bind:pageNumber />   
