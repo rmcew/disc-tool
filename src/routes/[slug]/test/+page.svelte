@@ -30,6 +30,7 @@
   let items1 = [], items2 = [], items3 = [], items4 = []
 
   $: ready = !$wordSetStore?.data[pageNumber]?.words.some(word => word.rank === null)
+  $: progress = pageNumber / maxPageNumber * 100
 
   function handleNext() {
     if (pageNumber === maxPageNumber-1){
@@ -79,7 +80,7 @@
 
 {#await fetchData() then}
   {#if !showResults}
-  <div class="available flex w-full h-50">
+  <div class="available flex w-full h-50 pb-3">
     <div class="flex flex-col w-full">
       <List items={[options.first]} bind:pageNumber />   
       <List items={[options.second]} bind:pageNumber />   
@@ -94,7 +95,10 @@
       <List items={items4} testValue=0 bind:pageNumber placeholder="Not at all"/>
     </div>
   </div>
-  <div class="flex justify-evenly space-x-2 mt-6">
+  <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
+    <div class="bg-yellow-500 h-2.5 rounded-full" style="width: {progress}%"></div>
+  </div>
+  <div class="flex justify-evenly space-x-2 mt-1">
     <button on:click={handleReset} class="btn md:btn-wide btn-secondary">Reset</button>
     <button on:click={handleNext} class="btn md:btn-wide btn-primary {ready ? '': 'btn-disabled'}">Next</button>
   </div>
