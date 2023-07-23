@@ -58,7 +58,7 @@
 
  <div class="flex flex-col justify-evenly w-full place-items-center answer" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>
   {#if placeholder && !items.length > 0 }
-		<span style="text-align:left; color: grey">{placeholder}</span>
+		<span style="color: grey">{placeholder}</span>
 	{/if}
   {#each items as item(item.id)}
     <div class="rounded-box" animate:flip={{duration:flipDurationMs}}>

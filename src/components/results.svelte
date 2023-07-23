@@ -122,10 +122,10 @@
 
 	</div>
 	<div class="container mx-auto">
-		<p><span style='color:rgb(0,112,192)'>Dominance</span> profile solves challenges, drives action and results, and moves at a fast pace.</p>
-		<p><span style='color:rgb(255,192,0)'>Influence</span> profile gains energy from people, interviews well, is enthusiastic, and prefers group participation.</p>
-		<p><span style='color:rgb(112,173,71)'>Steadiness</span> profile is loyal, listens well, employs specialized skills, and uses a calm, steady approach.</p>
-		<p><span style='color:red'>Compliance</span> profile follows standards, focuses on details, thinks analytically, and acts diplomatically. </p>
+		<p><span style='text-transform: uppercase; font-weight: 600; color:rgb(0,112,192)'>Dominance</span> profile solves challenges, drives action and results, and moves at a fast pace.</p>
+		<p><span style='text-transform: uppercase; font-weight: 600; color:rgb(255,192,0)'>Influence</span> profile gains energy from people, interviews well, is enthusiastic, and prefers group participation.</p>
+		<p><span style='text-transform: uppercase; font-weight: 600; color:rgb(112,173,71)'>Steadiness</span> profile is loyal, listens well, employs specialized skills, and uses a calm, steady approach.</p>
+		<p><span style='text-transform: uppercase; font-weight: 600; color:red'>Compliance</span> profile follows standards, focuses on details, thinks analytically, and acts diplomatically. </p>
 		<p>We are all a blend of the 4 personality types which combine to make each of us unique.	</p>
 	</div>
 
@@ -164,7 +164,7 @@
 			</g>
 		</svg>
 	</div>
-</div>
-<div style='display: flex;margin: 0 auto;flex-wrap: wrap;justify-content: center;'>
-	<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
+	<div style='display: flex;margin: 0 auto;flex-wrap: wrap;justify-content: center;'>
+		<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
+	</div>
 </div>
