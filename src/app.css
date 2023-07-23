@@ -4,6 +4,7 @@
 
 html {
   overflow: hidden;
+  height: -webkit-fill-available;
 }
 
 body {
@@ -15,9 +16,10 @@ body {
   color: #4a4a4a;
   overflow-x: hidden;
   overscroll-behavior: none;
-  height: 100vh;
+  height: 100%;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;  
+  min-height: -webkit-fill-available;
 }
 
 h1 {
