@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 html {
-  overflow: hidden;
   height: -webkit-fill-available;
 }
 
@@ -16,7 +15,7 @@ body {
   color: #4a4a4a;
   overflow-x: hidden;
   overscroll-behavior: none;
-  height: 100%;
+  min-height: 100vh;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;  
   min-height: -webkit-fill-available;
