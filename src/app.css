@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 html {
-  overflow: hidden;
-}
+  overscroll-behavior: none;
+}  
 
 body {
   background-color: #f1f1e6;
