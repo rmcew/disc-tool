@@ -35,7 +35,7 @@
 	$: console.log(totalPoints)
 	
 	const xTicks = ["Dominance", "Influence", 'Steadiness', "Compliance"];
-	const yTicks = [0, 5, 10, 15, 20, 25, 30];
+	const yTicks = [0, 10, 20, 30, 40, 50];
 	const padding = { top: 20, right: 15, bottom: 20, left: 25 };
 
 	let width = 500;
@@ -164,7 +164,7 @@
 			</g>
 		</svg>
 	</div>
-	<div style='display: flex;margin: 0 auto;justify-content: center;'>
-		<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
-	</div>
+</div>
+<div style='display: flex;margin: 0 auto;justify-content: center;'>
+	<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
 </div>
