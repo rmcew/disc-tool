@@ -79,35 +79,6 @@
 </script>
 
 {#await fetchData() then}
-  {#if !showResults}
-  <div class="flex-none sm:container sm:mx-auto mx-10" style="text-align: center">
-    <p>
-      Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.
-    </p>
-  </div>  
-  <div class="available flex w-full h-50 pb-3">
-    <div class="flex flex-col w-full">
-      <List items={[options.first]} bind:pageNumber />   
-      <List items={[options.second]} bind:pageNumber />   
-      <List items={[options.third]} bind:pageNumber />   
-      <List items={[options.fourth]} bind:pageNumber />   
-    </div>
-    <div class="divider divider-horizontal"></div>
-    <div class="flex flex-col w-full">
-      <List items={items1} testValue=3 bind:pageNumber placeholder="Very much"/>   
-      <List items={items2} testValue=2 bind:pageNumber placeholder="In most cases"/>   
-      <List items={items3} testValue=1 bind:pageNumber placeholder="A little bit"/>   
-      <List items={items4} testValue=0 bind:pageNumber placeholder="Not at all"/>
-    </div>
-  </div>
-  <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-    <div class="bg-yellow-500 h-2.5 rounded-full" style="width: {progress}%"></div>
-  </div>
-  <div class="flex justify-evenly space-x-2 mt-1">
-    <button on:click={handleReset} class="btn md:btn-wide btn-secondary">Reset</button>
-    <button on:click={handleNext} class="btn md:btn-wide btn-primary {ready ? '': 'btn-disabled'}">Next</button>
-  </div>
-  {:else}
+
     <Results /> 
-  {/if}
 {/await}
