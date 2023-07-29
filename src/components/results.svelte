@@ -3,7 +3,7 @@
   import { slide } from 'svelte/transition';
 	import { wordSetStore } from '../stores/wordSet'
 	import { onMount } from 'svelte';
-	import { sortBy } from 'lodash'
+	import _ from 'lodash'
 
 	let html2pdf
 	onMount(async () =>{
@@ -30,7 +30,7 @@
 		return points
 	}
 	$: totalPoints = calculateTotalPoints($wordSetStore) 
-	$: sorted = sortBy(totalPoints, 'weight')
+	$: sorted = _.sortBy(totalPoints, 'weight')
 	$: traits = totalPoints.map(d => d.trait) 
 	$: console.log(totalPoints)
 	
