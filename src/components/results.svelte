@@ -166,5 +166,5 @@
 	</div>
 </div>
 <div style='display: flex;margin: 0 auto;justify-content: center;'>
-	<button on:click={() => html2pdf().set({margin: 1, filename: 'disc-results.pdf'}).from(document.getElementById('results')).save()} class="btn btn-wide btn-primary ">Download Results</button>
+	<button on:click={() => html2pdf(document.getElementById('results'))} class="btn btn-wide btn-primary ">Download Results</button>
 </div>
