@@ -95,9 +95,9 @@
     <div class="divider divider-horizontal"></div>
     <div class="flex flex-col w-full">
       <List items={items1} testValue=3 bind:pageNumber placeholder="Very much"/>   
-      <List items={items2} testValue=2 bind:pageNumber placeholder="In most cases"/>   
-      <List items={items3} testValue=1 bind:pageNumber placeholder="A little bit"/>   
-      <List items={items4} testValue=0 bind:pageNumber placeholder="Not at all"/>
+      <List items={items2} testValue=2 bind:pageNumber placeholder="Most Times"/>
+      <List items={items3} testValue=1 bind:pageNumber placeholder="Sometimes"/>   
+      <List items={items4} testValue=0 bind:pageNumber placeholder="Rarely"/>
     </div>
   </div>
   <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">

@@ -26,7 +26,7 @@
           {
             "id": 3,
             "word": "Consistent",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -55,7 +55,7 @@
           {
             "id": 7,
             "word": "Reserved",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -79,7 +79,7 @@
           {
             "id": 11,
             "word": "Practical",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -108,7 +108,7 @@
           {
             "id": 15,
             "word": "Factual",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -124,7 +124,7 @@
           },
           {
             "id": 17,
-            "word": "Mixes Easilty",
+            "word": "Mixes Easily",
             "leadershipType": "Influence",
             "rank": null
           },
@@ -137,7 +137,7 @@
           {
             "id": 19,
             "word": "Perfectionist",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -166,7 +166,7 @@
           {
             "id": 23,
             "word": "Detailed",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -195,7 +195,7 @@
           {
             "id": 27,
             "word": "Inquisitive",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -224,7 +224,7 @@
           {
             "id": 31,
             "word": "Persistent",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -246,14 +246,14 @@
           },
           {
             "id": 34,
-            "word": "Good Listenter",
+            "word": "Good Listener",
             "leadershipType": "Steadiness",
             "rank": null
           },
           {
             "id": 35,
             "word": "Sensitive",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -282,7 +282,7 @@
           {
             "id": 39,
             "word": "Accurate",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -311,7 +311,7 @@
           {
             "id": 43,
             "word": "Controlled",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -340,7 +340,7 @@
           {
             "id": 47,
             "word": "Predictable",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -369,7 +369,7 @@
           {
             "id": 51,
             "word": "Orderly",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -398,7 +398,7 @@
           {
             "id": 55,
             "word": "Conscientious",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -427,7 +427,7 @@
           {
             "id": 59,
             "word": "Discerning",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -456,7 +456,7 @@
           {
             "id": 63,
             "word": "Analytical",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -485,7 +485,7 @@
           {
             "id": 67,
             "word": "Precise",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -514,7 +514,7 @@
           {
             "id": 71,
             "word": "Scheduled",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
@@ -543,7 +543,7 @@
           {
             "id": 75,
             "word": "Deliberate",
-            "leadershipType": "Conscientiousness",
+            "leadershipType": "Compliance",
             "rank": null
           }
         ]
