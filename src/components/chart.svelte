@@ -1,6 +1,6 @@
 <script lang="ts">
   import { Bar } from 'svelte-chartjs';
-  import { Chart, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js';
+  import { Chart, Title, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js';
   import ChartDataLabels from 'chartjs-plugin-datalabels';
 
   export let data

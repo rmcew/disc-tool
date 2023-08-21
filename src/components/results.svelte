@@ -5,7 +5,6 @@
 	import Chart from './chart.svelte';
 
 	export let resultsLanguage
-	console.log(resultsLanguage)
 
 	let html2pdf
 	onMount(async () =>{

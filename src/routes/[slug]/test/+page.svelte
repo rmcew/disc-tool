@@ -6,14 +6,16 @@
   import { base } from '$app/paths'
 
   const lang = $page.params.slug
-  let resultsLanguagePromise = fetchLanguage()
-  async function fetchLanguage() {
+  let resultsLanguagePromise = fetchResultsLanguage()
+  async function fetchResultsLanguage() {
     const response = await fetch(`${base}/languages/${lang}/results.json`);
     return await response.json();
   }
 
-  let words, maxPageNumber, options, ready
+  let words, maxPageNumber, options, ready, testLanguage
   async function fetchData() {
+    const testLanguageResponse = await fetch(`${base}/languages/${lang}/test.json`)
+    testLanguage = await testLanguageResponse.json();
     const response = await fetch(`${base}/languages/${$page.params.slug}/wordGroups.json`)
     const parsed = await response.json();
     wordGroupsStore.set(parsed.wordGroups)
@@ -101,18 +103,18 @@
     </div>
     <div class="divider divider-horizontal"></div>
     <div class="flex flex-col w-full">
-      <List items={items1} testValue=3 bind:pageNumber placeholder="Very Much"/>   
-      <List items={items2} testValue=2 bind:pageNumber placeholder="Most Times"/>
-      <List items={items3} testValue=1 bind:pageNumber placeholder="Sometimes"/>   
-      <List items={items4} testValue=0 bind:pageNumber placeholder="Rarely"/>
+      <List items={items1} testValue=3 bind:pageNumber placeholder={testLanguage.scale[0]}/>   
+      <List items={items2} testValue=2 bind:pageNumber placeholder={testLanguage.scale[1]}/>
+      <List items={items3} testValue=1 bind:pageNumber placeholder={testLanguage.scale[2]}/>   
+      <List items={items4} testValue=0 bind:pageNumber placeholder={testLanguage.scale[3]}/>
     </div>
   </div>
   <div class="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
     <div class="bg-yellow-500 h-2.5 rounded-full" style="width: {progress}%"></div>
   </div>
   <div class="flex justify-evenly space-x-2 mt-1">
-    <button on:click={handleReset} class="btn md:btn-wide btn-secondary">Reset</button>
-    <button on:click={handleNext} class="btn md:btn-wide btn-primary {ready ? '': 'btn-disabled'}">Next</button>
+    <button on:click={handleReset} class="btn md:btn-wide btn-secondary">{testLanguage.resetButton}</button>
+    <button on:click={handleNext} class="btn md:btn-wide btn-primary {ready ? '': 'btn-disabled'}">{testLanguage.nextButton}</button>
   </div>
   {:else}
   {#await resultsLanguagePromise then resultsLanguage}
