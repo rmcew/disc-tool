@@ -1,0 +1,62 @@
+{
+  "wordGroups": [
+    {
+      "set": 1,
+      "words": [
+        {
+          "id": 0,
+          "word": "Likes Control",
+          "leadershipType": "Dominance",
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "Enthusiastic",
+          "leadershipType": "Influence",
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "Sensitive",
+          "leadershipType": "Steadiness",
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "Consistent",
+          "leadershipType": "Compliance",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 2,
+      "words": [
+        {
+          "id": 4,
+          "word": "Confident",
+          "leadershipType": "Dominance",
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "Visionary",
+          "leadershipType": "Influence",
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "Calm",
+          "leadershipType": "Steadiness",
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "Reserved",
+          "leadershipType": "Compliance",
+          "rank": null
+        }
+      ]
+    }
+  ]
+}

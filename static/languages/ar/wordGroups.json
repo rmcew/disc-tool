@@ -1,0 +1,91 @@
+{
+  "wordGroups": [
+    {
+      "set": 1,
+      "words": [
+        {
+          "id": 0,
+          "word": "يحب السيطرة",
+          "leadershipType": "الهيمنة",
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "حماسي",
+          "leadershipType": "التأثير",
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "حساس",
+          "leadershipType": "الاستقرار",
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "ثابت",
+          "leadershipType": "الوعي",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 2,
+      "words": [
+        {
+          "id": 4,
+          "word": "واثق",
+          "leadershipType": "الهيمنة",
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "رؤية",
+          "leadershipType": "التأثير",
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "هادئ",
+          "leadershipType": "الاستقرار",
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "محفوظ",
+          "leadershipType": "الوعي",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 3,
+      "words": [
+        {
+          "id": 8,
+          "word": "صلب",
+          "leadershipType": "الهيمنة",
+          "rank": null
+        },
+        {
+          "id": 9,
+          "word": "نشيط",
+          "leadershipType": "التأثير",
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "غير مطالب",
+          "leadershipType": "الاستقرار",
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "عملي",
+          "leadershipType": "الوعي",
+          "rank": null
+        }
+      ]
+    }
+  ]
+}

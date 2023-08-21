@@ -1,17 +1,24 @@
 <script lang='ts'>
   import List from '../../../components/list.svelte'
-  import { wordSetStore } from '../../../stores/wordSet'
+  import { wordGroupsStore } from '../../../stores/wordSet'
   import Results from '../../../components/results.svelte'
   import { page } from '$app/stores'
   import { base } from '$app/paths'
 
+  const lang = $page.params.slug
+  let resultsLanguagePromise = fetchLanguage()
+  async function fetchLanguage() {
+    const response = await fetch(`${base}/languages/${lang}/results.json`);
+    return await response.json();
+  }
+
   let words, maxPageNumber, options, ready
   async function fetchData() {
-    const response = await fetch(`${base}/languages.json`);
-    const languageSet = await response.json();
-    wordSetStore.set(languageSet[$page.params.slug])
-    words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
-    maxPageNumber = $wordSetStore.data.length
+    const response = await fetch(`${base}/languages/${$page.params.slug}/wordGroups.json`)
+    const parsed = await response.json();
+    wordGroupsStore.set(parsed.wordGroups)
+    words = $wordGroupsStore[pageNumber].words.filter(word => word.rank === null)
+    maxPageNumber = $wordGroupsStore.length
     options = {
       first: words[0],
       second: words[1],
@@ -21,15 +28,15 @@
   }
 
 
-  $:if ($wordSetStore) {
-    words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
+  $:if ($wordGroupsStore) {
+    words = $wordGroupsStore[pageNumber].words.filter(word => word.rank === null)
   }
 
   let pageNumber = 0
   let showResults = false
   let items1 = [], items2 = [], items3 = [], items4 = []
 
-  $: ready = !$wordSetStore?.data[pageNumber]?.words.some(word => word.rank === null)
+  $: ready = !$wordGroupsStore?.[pageNumber]?.words.some(word => word.rank === null)
   $: progress = pageNumber / maxPageNumber * 100
 
   function handleNext() {
@@ -39,10 +46,10 @@
     else {
       pageNumber++
       options = {
-        first: $wordSetStore.data[pageNumber].words[0],
-        second: $wordSetStore.data[pageNumber].words[1],
-        third: $wordSetStore.data[pageNumber].words[2],
-        fourth: $wordSetStore.data[pageNumber].words[3]
+        first: $wordGroupsStore[pageNumber].words[0],
+        second: $wordGroupsStore[pageNumber].words[1],
+        third: $wordGroupsStore[pageNumber].words[2],
+        fourth: $wordGroupsStore[pageNumber].words[3]
       }      
       items1 = []
       items2 = []
@@ -52,18 +59,18 @@
   }
 
   function handleReset() {
-    wordSetStore.update((currentWordSets) => {
-      const updatedWordSets = {...currentWordSets};
-      updatedWordSets.data[pageNumber] = {
-        set: updatedWordSets.data[pageNumber].set,
-        words: updatedWordSets.data[pageNumber].words.map(word =>({
+    wordGroupsStore.update((currentWordGroups) => {
+      const updatedWordSets = {...currentWordGroups};
+      updatedWordSets[pageNumber] = {
+        set: updatedWordSets[pageNumber].set,
+        words: updatedWordSets[pageNumber].words.map(word =>({
           ...word,
           rank: null
         })),
       };
       return updatedWordSets;
     });
-    words = $wordSetStore.data[pageNumber].words.filter(word => word.rank === null)
+    words = $wordGroupsStore[pageNumber].words.filter(word => word.rank === null)
     options = {
       first: words[0],
       second: words[1],
@@ -94,7 +101,7 @@
     </div>
     <div class="divider divider-horizontal"></div>
     <div class="flex flex-col w-full">
-      <List items={items1} testValue=3 bind:pageNumber placeholder="Very much"/>   
+      <List items={items1} testValue=3 bind:pageNumber placeholder="Very Much"/>   
       <List items={items2} testValue=2 bind:pageNumber placeholder="Most Times"/>
       <List items={items3} testValue=1 bind:pageNumber placeholder="Sometimes"/>   
       <List items={items4} testValue=0 bind:pageNumber placeholder="Rarely"/>
@@ -108,6 +115,8 @@
     <button on:click={handleNext} class="btn md:btn-wide btn-primary {ready ? '': 'btn-disabled'}">Next</button>
   </div>
   {:else}
-    <Results /> 
+  {#await resultsLanguagePromise then resultsLanguage}
+    <Results {resultsLanguage} /> 
+  {/await}
   {/if}
 {/await}

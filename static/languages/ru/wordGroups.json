@@ -1,0 +1,91 @@
+{
+  "wordGroups": [
+    {
+      "set": 1,
+      "words": [
+        {
+          "id": 0,
+          "word": "Любит контроль",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "Энтузиастичный",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "Чувствительный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "Последовательный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 2,
+      "words": [
+        {
+          "id": 4,
+          "word": "Уверенный",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "Видение",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "Спокойный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "Сдержанный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 3,
+      "words": [
+        {
+          "id": 8,
+          "word": "Твердый",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 9,
+          "word": "Энергичный",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "Не требовательный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "Практичный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    }
+  ]
+}

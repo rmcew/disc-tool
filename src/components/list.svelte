@@ -20,7 +20,7 @@
 <script>
 	import { dndzone } from 'svelte-dnd-action';
 	import { flip } from 'svelte/animate';
-	import { wordSetStore } from '../stores/wordSet'
+	import { wordGroupsStore } from '../stores/wordSet'
 	const flipDurationMs = 100;
 	
 	export let items = [];
@@ -36,10 +36,10 @@
 
 	const updateWordRank = (pageNumber, wordId, newRank) => {
 		if (pageNumber, wordId, newRank) {
-			wordSetStore.update(sets => {
-				const wordIndex = sets.data[pageNumber].words.findIndex(word => word.id === wordId);
+			wordGroupsStore.update(sets => {
+				const wordIndex = sets[pageNumber].words.findIndex(word => word.id === wordId);
 				if(wordIndex > -1) {
-					sets.data[pageNumber].words[wordIndex].rank = Number(newRank);
+					sets[pageNumber].words[wordIndex].rank = Number(newRank);
 				}
 			return sets; // return the updated store
 			});

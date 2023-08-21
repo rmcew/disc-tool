@@ -1,10 +1,11 @@
 <script>
-	import { wordSetStore } from '../stores/wordSet'
+	import { wordGroupsStore } from '../stores/wordSet'
 	import { onMount } from 'svelte';
 	import { sortBy } from 'lodash'
 	import Chart from './chart.svelte';
-	import html2canvas from 'html2canvas';
-	import { jsPDF } from 'jspdf';
+
+	export let resultsLanguage
+	console.log(resultsLanguage)
 
 	let html2pdf
 	onMount(async () =>{
@@ -13,20 +14,6 @@
 			html2pdf = module.default
 		}
 	})
-
-	async function saveScreenshotBak() {
-		if (!document) return
-		const w = document.getElementById("results").offsetWidth;
-		const h = document.getElementById("results").offsetHeight;
-		const canvas = await html2canvas(document.getElementById("results"), {
-			dpi: 300, // Set to 300 DPI,
-			windowWidth: 1024
-		});
-		const img = canvas.toDataURL("image/png", 1);
-		const doc = new jsPDF('p', 'pt');
-		doc.addImage(img, 'PNG', 10, 10, 1024, 1024);
-		doc.save('sample-file.pdf');
-	}
 
 	async function saveScreenshot() {
 		var element = document.getElementById("results");
@@ -49,7 +36,7 @@
 			{ id: 2, trait: "Steadiness", weight: 0, color: 'rgb(112,173,71)'}, 
 			{ id: 3, trait: "Compliance", weight: 0, color: 'red' },
 		]
-		store.data.map(page => {
+		store.map(page => {
 			points[0] = {...points[0], weight: points[0].weight + page.words[0].rank}
 			points[1] = {...points[1], weight: points[1].weight + page.words[1].rank}
 			points[2] = {...points[2], weight: points[2].weight + page.words[2].rank}
@@ -57,7 +44,7 @@
 		})
 		return points
 	}
-	$: totalPoints = calculateTotalPoints($wordSetStore) 
+	$: totalPoints = calculateTotalPoints($wordGroupsStore) 
 	$: sorted = sortBy(totalPoints, 'weight')
 </script>
 
@@ -72,22 +59,21 @@
 	}
 </style> 
 <div id='results'>
-	<h1 class="text-3xl md:text-4xl">Congratulations on completing the assessment!</h1>
+	<h1 class="text-3xl md:text-4xl">{resultsLanguage.heading}</h1>
 
 	<div class="container mx-auto results">
-		<p>Your primary personality profile is: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[3].color}'>{sorted[3].trait}</span></p>
-		<p>Your secondary personality profile is: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[2].color}'>{sorted[2].trait}</span></p>
+		<p>{resultsLanguage.primaryText}: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[3].color}'>{sorted[3].trait}</span></p>
+		<p>{resultsLanguage.secondaryText}: <span style='text-transform: uppercase; font-weight: 600; color: {sorted[2].color}'>{sorted[2].trait}</span></p>
 
 	</div>
 	<div class="container mx-auto" style="max-width:900px">
-		<p><span style='text-transform: uppercase; font-weight: 600; color:rgb(0,112,192)'>Dominance</span> - solves challenges, drives action and results, and moves at a fast pace.</p>
-		<p><span style='text-transform: uppercase; font-weight: 600; color:rgb(255,192,0)'>Influence</span> - gains energy from people, is enthusiastic, and prefers group participation.</p>
-		<p><span style='text-transform: uppercase; font-weight: 600; color:rgb(112,173,71)'>Steadiness</span> - is loyal, listens well, employs specialized skills, and uses a calm, steady approach.</p>
-		<p><span style='text-transform: uppercase; font-weight: 600; color:red'>Compliance</span> - follows standards, focuses on details, thinks analytically, and acts diplomatically. </p>
+	{#each resultsLanguage.attributes as attribute}
+		<p><span style='text-transform: uppercase; font-weight: 600; color:{attribute.color}'>{attribute.name}</span> - {attribute.definition}</p>
+	{/each}
 		<p>We are all a blend of the 4 personality types which combine to make each of us unique.	</p>
 		<Chart data={totalPoints.map(points => points.weight)} />
 	</div>
 </div>
 <div style='display: flex;margin: 0 auto;justify-content: center; margin-top: 2rem'>
-	<button on:click={() => saveScreenshot()} class="btn btn-wide btn-primary ">Download & Save</button>
+	<button on:click={() => saveScreenshot()} class="btn btn-wide btn-primary ">{resultsLanguage.button}</button>
 </div>

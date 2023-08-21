@@ -25,7 +25,7 @@
             return total + dataPoint
           }
           const totalValue = data.reduce(totalSum, 0)
-          const percentageValue = (value / totalValue * 100).toFixed(1)
+          const percentageValue = (value / totalValue * 100).toFixed(0)
           return `${percentageValue}%`
         }
       }
