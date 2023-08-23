@@ -1,6 +1,5 @@
 # Disc Assessment Tool
 
-![Disc Assessment Tool]
 
 The **Disc Assessment Tool** is a powerful and flexible tool designed to facilitate taking a DISC assessment in multiple languages. The tool allows users to complete the assessment in their preferred language, making it accessible to a wider audience.
 
