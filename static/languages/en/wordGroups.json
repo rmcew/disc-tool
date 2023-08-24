@@ -61,7 +61,12 @@
     {
       "set": 3,
       "words": [
-        { "id": 8, "word": "Firm", "leadershipType": "Dominance", "rank": null },
+        { 
+          "id": 8, 
+          "word": "Firm", 
+          "leadershipType": "Dominance", 
+          "rank": null 
+        },
         {
           "id": 9,
           "word": "Energetic",
