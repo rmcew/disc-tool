@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/sveltekit-1'
+          BASE_PATH: '/disc-tool'
         run: |
           npm run build
           touch build/.nojekyll
