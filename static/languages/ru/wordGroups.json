@@ -5,7 +5,7 @@
       "words": [
         {
           "id": 0,
-          "word": "Любит контроль",
+          "word": "Любит Контроль",
           "leadershipType": "Доминирование",
           "rank": null
         },
@@ -75,7 +75,7 @@
         },
         {
           "id": 10,
-          "word": "Не требовательный",
+          "word": "Не Требовательный",
           "leadershipType": "Стабильность",
           "rank": null
         },
@@ -92,25 +92,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Любит перемены",
+          "word": "Любит Перемены",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 13,
-          "word": "активатор",
+          "word": "Активатор",
           "leadershipType": "Влияние",
           "rank": null
         },
         {
           "id": 14,
-          "word": "Нравится рутина",
+          "word": "Нравится Рутина",
           "leadershipType": "Стабильность",
           "rank": null
         },
         {
           "id": 15,
-          "word": "Основывается на фактах",
+          "word": "Основывается на Фактах",
           "leadershipType": "Сознательность",
           "rank": null
         }
@@ -121,25 +121,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Решает проблемы",
+          "word": "Решает Проблемы",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 17,
-          "word": "Легко вращается в обществе",
+          "word": "Легко Вращается в Обществе",
           "leadershipType": "Влияние",
           "rank": null
         },
         {
           "id": 18,
-          "word": "относительный",
+          "word": "Относительный",
           "leadershipType": "Стабильность",
           "rank": null
         },
         {
           "id": 19,
-          "word": "перфекционист",
+          "word": "Перфекционист",
           "leadershipType": "Сознательность",
           "rank": null
         }
@@ -150,13 +150,13 @@
       "words": [
         {
           "id": 20,
-          "word": "смелый",
+          "word": "Смелый",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 21,
-          "word": "Любитель повеселиться",
+          "word": "Любитель Повеселиться",
           "leadershipType": "Влияние",
           "rank": null
         },
@@ -168,7 +168,7 @@
         },
         {
           "id": 23,
-          "word": "доскональный",
+          "word": "Доскональный",
           "leadershipType": "Сознательность",
           "rank": null
         }
@@ -179,13 +179,13 @@
       "words": [
         {
           "id": 24,
-          "word": "Ведомый целью",
+          "word": "Ведомый Целью",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 25,
-          "word": "спонтанный",
+          "word": "Спонтанный",
           "leadershipType": "Влияние",
           "rank": null
         },
@@ -197,7 +197,7 @@
         },
         {
           "id": 27,
-          "word": "Любобытный пытливый",
+          "word": "Любобытный Пытливый",
           "leadershipType": "Сознательность",
           "rank": null
         }
@@ -208,13 +208,13 @@
       "words": [
         {
           "id": 28,
-          "word": "волевой",
+          "word": "Волевой",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 29,
-          "word": "Любит новые идеи",
+          "word": "Любит Новые Идеи",
           "leadershipType": "Влияние",
           "rank": null
         },
@@ -237,25 +237,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Самоуверенный, полагается на свои силы",
+          "word": "Самоуверенный, Полагается на Свои Силы",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 33,
-          "word": "оптимистичный",
+          "word": "Оптимистичный",
           "leadershipType": "Влияние",
           "rank": null
         },
         {
           "id": 34,
-          "word": "Хорошо слушает",
+          "word": "Хорошо Слушает",
           "leadershipType": "Стабильность",
           "rank": null
         },
         {
           "id": 35,
-          "word": "чувствительный",
+          "word": "Цувствительный",
           "leadershipType": "Сознательность",
           "rank": null
         }
@@ -266,25 +266,286 @@
       "words": [
         {
           "id": 36,
-          "word": "Направляющий, управляющий",
+          "word": "Направляющий, Управляющий",
           "leadershipType": "Доминирование",
           "rank": null
         },
         {
           "id": 37,
-          "word": "Идет на риск",
+          "word": "Идет на Риск",
           "leadershipType": "Влияние",
           "rank": null
         },
         {
           "id": 38,
-          "word": "лояльный",
+          "word": "Лояльный",
           "leadershipType": "Стабильность",
           "rank": null
         },
         {
           "id": 39,
-          "word": "Точный аккуратный",
+          "word": "Точный Аккуратный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 11,
+      "words": [
+        {
+          "id": 40,
+          "word": "Берущий на Себя Ответственность",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "Мотивирует",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "Уровновешенный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "Управляемый Контролируемый",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 12,
+      "words": [
+        {
+          "id": 44,
+          "word": "Решительный, Твердый",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "Очень Многословный",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "Уступает",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "Предсказуемый",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 13,
+      "words": [
+        {
+          "id": 48,
+          "word": "Предприимчивый, Инициативный",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "Дружелюбный",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "Нерешительный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "Организованный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 14,
+      "words": [
+        {
+          "id": 52,
+          "word": "Соревнующийся",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "Популярный",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "Нерешительный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "Добросовестный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 15,
+      "words": [
+        {
+          "id": 56,
+          "word": "Продуктивный",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "Нравится Разнообразие",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "Говорит шутки Повседневным тоном",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "Проницательный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 16,
+      "words": [
+        {
+          "id": 60,
+          "word": "Целеустремленный",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "Ориентация на Группу",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "Сочувствующий",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "Аналитичный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 17,
+      "words": [
+        {
+          "id": 64,
+          "word": "Авантюрный, Отважный",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "Инициатор",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "Заботливый",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "Точный",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 18,
+      "words": [
+        {
+          "id": 68,
+          "word": "Независимый",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "Вдохновляющий",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "Толерантный",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "Человек Расписания",
+          "leadershipType": "Сознательность",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 19,
+      "words": [
+        {
+          "id": 72,
+          "word": "Ориентированный на Действие",
+          "leadershipType": "Доминирование",
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "Любит Перемены",
+          "leadershipType": "Влияние",
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "Миротворец",
+          "leadershipType": "Стабильность",
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "Хорошо Обдумывает",
           "leadershipType": "Сознательность",
           "rank": null
         }
