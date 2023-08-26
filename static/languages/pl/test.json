@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Polski Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.",
+  "scale":[
+    "bardzo",
+    "przeważnie",
+    "trochę",
+    "wcale"
+  ],
+  "resetButton": "RESET",
+  "nextButton": "NEXT"
+}

@@ -1,0 +1,555 @@
+{
+  "wordGroups": [
+    {
+      "set": 1,
+      "words": [
+        {
+          "id": 0,
+          "word": "lubi kontrolować",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "entuzjastyczny",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "wrażliwy",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "konsekwentny",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 2,
+      "words": [
+        {
+          "id": 4,
+          "word": "pewny siebie",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "wizjoner",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "opanowany, spokojny",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "z rezerwą, powściągliwy",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 3,
+      "words": [
+        { 
+          "id": 8, 
+          "word": "stały, stanowczy", 
+          "leadershipType": "Przewaga", 
+          "rank": null 
+        },
+        {
+          "id": 9,
+          "word": "żywy",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "niewymagający",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "praktyczny",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 4,
+      "words": [
+        {
+          "id": 12,
+          "word": "lubi zmiany",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "promotor",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "lubi rutynę",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "rzeczowy",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 5,
+      "words": [
+        {
+          "id": 16,
+          "word": "rozwiązuje problemy",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "łatwo odnajduje się wśród ludzi",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "relacyjny",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "perfekcjonista",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 6,
+      "words": [
+        {
+          "id": 20,
+          "word": "odważny, śmiały",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "lubi zabawę",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "łatwo się przystosowuje",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "szczegółowy",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 7,
+      "words": [
+        {
+          "id": 24,
+          "word": "nastawiony na cel",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "spontaniczny",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "myśli o innych",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "dociekliwy",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 8,
+      "words": [
+        {
+          "id": 28,
+          "word": "ma silną wolę",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "lubi nowe pomysły",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "cierpliwy",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "wytrwały, uporczywy",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 9,
+      "words": [
+        {
+          "id": 32,
+          "word": "polegający na sobie, samodzielny",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "optymistyczny",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "dobry słuchacz",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "wrażliwy, delikatny",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 10,
+      "words": [
+        {
+          "id": 36,
+          "word": "bezpośredni",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "podejmuje ryzyko",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "lojalny",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "precyzyjny",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 11,
+      "words": [
+        {
+          "id": 40,
+          "word": "Takes Charge",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "Motivator",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "Even-keeled",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "Controlled",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 12,
+      "words": [
+        {
+          "id": 44,
+          "word": "Determined",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "Very Verbal",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "Gives In",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "Predictable",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 13,
+      "words": [
+        {
+          "id": 48,
+          "word": "Enterprising",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "Friendly",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "Indecisive",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "Orderly",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 14,
+      "words": [
+        {
+          "id": 52,
+          "word": "Competitive",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "Popular",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "Dislikes Change",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "Conscientious",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 15,
+      "words": [
+        {
+          "id": 56,
+          "word": "Productive",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "Enjoys Variety",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "Dry Humor",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "Discerning",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 16,
+      "words": [
+        {
+          "id": 60,
+          "word": "Purposeful",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "Group-oriented",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "Sympathetic",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "Analytical",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 17,
+      "words": [
+        {
+          "id": 64,
+          "word": "Adventurous",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "Initiator",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "Nurturing",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "Precise",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 18,
+      "words": [
+        {
+          "id": 68,
+          "word": "Independent",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "Inspirational",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "Tolerant",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "Scheduled",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "set": 19,
+      "words": [
+        {
+          "id": 72,
+          "word": "Action-oriented",
+          "leadershipType": "Przewaga",
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "Likes Change",
+          "leadershipType": "Wpływ",
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "Peacemaker",
+          "leadershipType": "Stałość",
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "Deliberate",
+          "leadershipType": "Zgodność",
+          "rank": null
+        }
+      ]
+    }
+  ]
+}
