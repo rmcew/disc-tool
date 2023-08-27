@@ -14,7 +14,7 @@
 		border: 1px solid black;
 		margin: 0.2em;
 		padding: 0.3em;
-		height: 3rem;
+		min-height: 3rem;
 	}
 </style>
 <script>
