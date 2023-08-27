@@ -32,6 +32,7 @@
 
 	const MAX_ALLOWED = 1;
 	$: dropFromOthersDisabled = (items.length === MAX_ALLOWED || !placeholder); 
+	$: dragDisabled = !!placeholder && items.length === 0
 	$: ready = items.length === 0
 
 	const updateWordRank = (pageNumber, wordId, newRank) => {
@@ -56,7 +57,7 @@
 	}	
 </script>
 
- <div class="flex flex-col justify-evenly w-full place-items-center answer" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>
+ <div class="flex flex-col justify-evenly w-full place-items-center answer" use:dndzone={{items, flipDurationMs, dropFromOthersDisabled, dragDisabled}} on:consider={handleConsider} on:finalize={handleFinalize}>
   {#if placeholder && !items.length > 0 }
 		<span style="color: grey">{placeholder}</span>
 	{/if}
