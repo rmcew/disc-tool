@@ -1,7 +1,7 @@
 {
-  "heading": "Congratulations on completing the assessment",
-  "primaryText": "Your primary personality profile is: ",
-  "secondaryText": "Your secondary personality profile is: ",
+  "heading": "Congratulations on completing the assessment!",
+  "primaryText": "Your primary personality profile is ",
+  "secondaryText": "Your secondary personality profile is ",
   "attributes":[
     {
       "name": "DOMINANCE",
