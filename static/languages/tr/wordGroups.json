@@ -5,25 +5,25 @@
       "words": [
         {
           "id": 0,
-          "word": "Likes Control",
+          "word": "Kontrolü seviyorum",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 1,
-          "word": "Enthusiastic",
+          "word": "Coşkuluyum",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 2,
-          "word": "Sensitive",
+          "word": "Hassasım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 3,
-          "word": "Consistent",
+          "word": "Tutarlıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -34,25 +34,25 @@
       "words": [
         {
           "id": 4,
-          "word": "Confident",
+          "word": "Kendime güveniyorum",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 5,
-          "word": "Visionary",
+          "word": "Vizyon sahibiyim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 6,
-          "word": "Calm",
+          "word": "Sakinim",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 7,
-          "word": "Reserved",
+          "word": "Ağzı kapalıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -63,25 +63,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "Firm", 
+          "word": "Katıyım", 
           "leadershipType": "Dominance", 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "Energetic",
+          "word": "Enerjikim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 10,
-          "word": "Non-demanding",
+          "word": "Talepkar değilim",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 11,
-          "word": "Practical",
+          "word": "Pratikim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -92,25 +92,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Likes Change",
+          "word": "Değişimi severim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 13,
-          "word": "Promoter",
+          "word": "Başlatıcıyım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "Rutinden zevk alırım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 15,
-          "word": "Factual",
+          "word": "Gerçekçiyim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -121,25 +121,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Problem Solver",
+          "word": "Problem çözücüyüm",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 17,
-          "word": "Mixes Easily",
+          "word": "Çok kolay karıştırırım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 18,
-          "word": "Relational",
+          "word": "İlişkiler kurarım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 19,
-          "word": "Perfectionist",
+          "word": "Mükemmeliyetçiyim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -150,25 +150,25 @@
       "words": [
         {
           "id": 20,
-          "word": "Bold",
+          "word": "Cesurum",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 21,
-          "word": "Fun-loving",
+          "word": "Eğlence düşkünüyüm",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 22,
-          "word": "Adaptable",
+          "word": "Uyumluyum",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 23,
-          "word": "Detailed",
+          "word": "Detaycı",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -179,25 +179,25 @@
       "words": [
         {
           "id": 24,
-          "word": "Goal Driven",
+          "word": "Hedef odaklıyım",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 25,
-          "word": "Spontaneous",
+          "word": "Düşünmeden hareket ederim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 26,
-          "word": "Thoughtful",
+          "word": "Başkalarını düşünürüm",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 27,
-          "word": "Inquisitive",
+          "word": "Meraklıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -208,25 +208,25 @@
       "words": [
         {
           "id": 28,
-          "word": "Strong Willed",
+          "word": "İradeliyim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 29,
-          "word": "Likes New Ideas",
+          "word": "Yeni fikirleri severim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 30,
-          "word": "Patient",
+          "word": "Sabırlıyım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 31,
-          "word": "Persistent",
+          "word": "Israrcıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -237,25 +237,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Self-reliant",
+          "word": "Kendine bilen",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 33,
-          "word": "Optimistic",
+          "word": "İyimserim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 34,
-          "word": "Good Listener",
+          "word": "İyi bir dinleyiciyim",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 35,
-          "word": "Sensitive",
+          "word": "Duyarlıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -266,25 +266,25 @@
       "words": [
         {
           "id": 36,
-          "word": "Directive",
+          "word": "Yol göstericiyim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 37,
-          "word": "Takes Risks",
+          "word": "Risk alırım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 38,
-          "word": "Loyal",
+          "word": "Sadıkım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 39,
-          "word": "Accurate",
+          "word": "Dakiğim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -295,25 +295,25 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "Sorumluluğu üstlenirim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 41,
-          "word": "Motivator",
+          "word": "Motive edenim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 42,
-          "word": "Even-keeled",
+          "word": "Durgunum",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "Kontrollüyüm",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -324,25 +324,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "Azimliyim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "Çok konuşkanım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "Teslimiyetçiyim",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "Öngörülebilirim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -353,25 +353,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "Girişkenim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "Dost canlısıyım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "Kararsızım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "İtaatkarım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -382,25 +382,25 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "Rekabetçiyim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 53,
-          "word": "Popular",
+          "word": "Popülerim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "Değişime karşıyım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "Vicdanlıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -411,25 +411,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "Üretkenim",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "Çeşitlilikten zevk alırım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "Nükteli olmayı severim",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "Sezgi doluyum",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -440,25 +440,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "Maksatlıyım",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "Grup odaklıyım",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "Sempatikim",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "Analitikim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -469,25 +469,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "Maceracıyım",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "Öncüyüm",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "Korumayıcıyım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "Çok dikkatliyim",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -498,25 +498,25 @@
       "words": [
         {
           "id": 68,
-          "word": "Independent",
+          "word": "Bağımsızım",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "İlham vericiyim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 70,
-          "word": "Tolerant",
+          "word": "Toleranslıyım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "Programlıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
@@ -527,25 +527,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "Eylem odaklıyım",
           "leadershipType": "Dominance",
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "Değişimi severim",
           "leadershipType": "Influence",
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "Barıştırıcıyım",
           "leadershipType": "Steadiness",
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "Planlıyım",
           "leadershipType": "Compliance",
           "rank": null
         }
