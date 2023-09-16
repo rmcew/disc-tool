@@ -1,0 +1,28 @@
+{
+  "heading": "Congratulations on completing the assessment!",
+  "primaryText": "Your primary personality profile is",
+  "secondaryText": "Your secondary personality profile is",
+  "attributes":[
+    {
+      "name": "DOMINANCE",
+      "definition": "solves challenges, drives action and results, and moves at a fast pace.",
+      "color": "rgb(0, 112, 192)"
+    },
+    {
+      "name": "INFLUENCE",
+      "definition": "gains energy from people, is enthusiastic, and prefers group participation.",
+      "color": "rgb(255, 192, 0)"
+    },
+    {
+      "name": "STEADINESS",
+      "definition": "is loyal, listens well, employs specialized skills, and uses a calm approach.",
+      "color": "rgb(112, 173, 71)"
+    },
+    {
+      "name": "COMPLIANCE",
+      "definition": "follows roles, focuses on details, thinks analytically, acts diplomatically.",
+      "color": "rgb(255, 0, 0)"
+    }
+  ],
+  "button": "Download & Save"
+}
