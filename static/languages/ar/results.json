@@ -4,25 +4,30 @@
   "secondaryText": "ملفك الشخصي الثانوي هو: ",
   "attributes":[
     {
+      "id": 1,
       "name": "DOMINANCE",
       "definition": "يحل التحديات، يدفع للعمل والنتائج، ويتحرك بوتيرة سريعة.",
       "color": "rgb(0, 112, 192)"
     },
     {
+      "id": 2,
       "name": "INFLUENCE",
       "definition": "يكتسب الطاقة من الناس، متحمس، ويفضل المشاركة الجماعية.",
       "color": "rgb(255, 192, 0)"
     },
     {
+      "id": 3,
       "name": "STEADINESS",
       "definition": "مخلص، يستمع بشكل جيد، يستخدم مهارات متخصصة، ويتبنى نهجًا هادئًا وثابتًا.",
       "color": "rgb(112, 173, 71)"
     },
     {
+      "id": 4,
       "name": "COMPLIANCE",
       "definition": "يتبع المعايير، يركز على التفاصيل، يفكر تحليليًا، ويتصرف بدبلوماسية.",
       "color": "rgb(255, 0, 0)"
     }
   ],
+  "descriptionText": "We are all a blend of the 4 personality types which combine to make each of us unique.",
   "button": "تحميل وحفظ"
 }

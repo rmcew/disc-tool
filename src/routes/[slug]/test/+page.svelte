@@ -62,7 +62,7 @@
 
   function handleReset() {
     wordGroupsStore.update((currentWordGroups) => {
-      const updatedWordSets = {...currentWordGroups};
+      const updatedWordSets = [...currentWordGroups];
       updatedWordSets[pageNumber] = {
         set: updatedWordSets[pageNumber].set,
         words: updatedWordSets[pageNumber].words.map(word =>({

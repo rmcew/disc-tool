@@ -4,7 +4,8 @@
   import ChartDataLabels from 'chartjs-plugin-datalabels';
 
   export let data
-  
+  export let resultsLanguage
+
   const options = {
     responsive:true,
     plugins:{
@@ -33,7 +34,7 @@
   }
 
 
-  const labels = ['DOMINANCE', 'INFLUENCE', 'STEADINESS', 'COMPLIANCE']
+  const labels = resultsLanguage.attributes.map(att => att.name)
   const datasets = [
     {
       data,
@@ -61,4 +62,6 @@
     LinearScale
   );
 </script>
+
+
 <Bar data={{labels, datasets}} {options} />
