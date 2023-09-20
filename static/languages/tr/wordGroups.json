@@ -5,25 +5,25 @@
         {
           "id": 0,
           "word": "Kontrolü seviyorum",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 1,
           "word": "Coşkuluyum",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 2,
           "word": "Hassasım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 3,
           "word": "Tutarlıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -33,25 +33,25 @@
         {
           "id": 4,
           "word": "Kendime güveniyorum",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
           "word": "Vizyon sahibiyim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
           "word": "Sakinim",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
           "word": "Ağzı kapalıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -61,25 +61,25 @@
         { 
           "id": 8, 
           "word": "Katıyım", 
-          "leadershipTypeId": 1, 
+          "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
           "word": "Enerjikim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
           "word": "Talepkar değilim",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
           "word": "Pratikim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -89,25 +89,25 @@
         {
           "id": 12,
           "word": "Değişimi severim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
           "word": "Başlatıcıyım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
           "word": "Rutinden zevk alırım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
           "word": "Gerçekçiyim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -117,25 +117,25 @@
         {
           "id": 16,
           "word": "Problem çözücüyüm",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
           "word": "Çok kolay karıştırırım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
           "word": "İlişkiler kurarım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
           "word": "Mükemmeliyetçiyim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -145,25 +145,25 @@
         {
           "id": 20,
           "word": "Cesurum",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
           "word": "Eğlence düşkünüyüm",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
           "word": "Uyumluyum",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
           "word": "Detaycı",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -173,25 +173,25 @@
         {
           "id": 24,
           "word": "Hedef odaklıyım",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
           "word": "Düşünmeden hareket ederim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
           "word": "Başkalarını düşünürüm",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
           "word": "Meraklıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -201,25 +201,25 @@
         {
           "id": 28,
           "word": "İradeliyim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
           "word": "Yeni fikirleri severim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
           "word": "Sabırlıyım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
           "word": "Israrcıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -229,25 +229,25 @@
         {
           "id": 32,
           "word": "Kendine bilen",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
           "word": "İyimserim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
           "word": "İyi bir dinleyiciyim",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
           "word": "Duyarlıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -257,25 +257,25 @@
         {
           "id": 36,
           "word": "Yol göstericiyim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
           "word": "Risk alırım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
           "word": "Sadıkım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
           "word": "Dakiğim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -285,25 +285,25 @@
         {
           "id": 40,
           "word": "Sorumluluğu üstlenirim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
           "word": "Motive edenim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 42,
           "word": "Durgunum",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
           "word": "Kontrollüyüm",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -313,25 +313,25 @@
         {
           "id": 44,
           "word": "Azimliyim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
           "word": "Çok konuşkanım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
           "word": "Teslimiyetçiyim",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
           "word": "Öngörülebilirim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -341,25 +341,25 @@
         {
           "id": 48,
           "word": "Girişkenim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
           "word": "Dost canlısıyım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
           "word": "Kararsızım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
           "word": "İtaatkarım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -369,25 +369,25 @@
         {
           "id": 52,
           "word": "Rekabetçiyim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
           "word": "Popülerim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
           "word": "Değişime karşıyım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
           "word": "Vicdanlıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -397,25 +397,25 @@
         {
           "id": 56,
           "word": "Üretkenim",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
           "word": "Çeşitlilikten zevk alırım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
           "word": "Nükteli olmayı severim",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
           "word": "Sezgi doluyum",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -425,25 +425,25 @@
         {
           "id": 60,
           "word": "Maksatlıyım",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
           "word": "Grup odaklıyım",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
           "word": "Sempatikim",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
           "word": "Analitikim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -453,25 +453,25 @@
         {
           "id": 64,
           "word": "Maceracıyım",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
           "word": "Öncüyüm",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
           "word": "Korumayıcıyım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
           "word": "Çok dikkatliyim",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -481,25 +481,25 @@
         {
           "id": 68,
           "word": "Bağımsızım",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 69,
           "word": "İlham vericiyim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 70,
           "word": "Toleranslıyım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
           "word": "Programlıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]
@@ -509,25 +509,25 @@
         {
           "id": 72,
           "word": "Eylem odaklıyım",
-          "leadershipTypeId": 1,
+          "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
           "word": "Değişimi severim",
-          "leadershipTypeId": 2,
+          "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
           "word": "Barıştırıcıyım",
-          "leadershipTypeId": 3,
+          "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
           "word": "Planlıyım",
-          "leadershipTypeId": 4,
+          "leadershipTypeId": 3,
           "rank": null
         }
       ]

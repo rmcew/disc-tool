@@ -5,25 +5,25 @@
         {
           "id": 0,
           "word": "يحب السيطرة",
-          "leadershipTypeId": "1",
+          "leadershipTypeId": "0",
           "rank": null
         },
         {
           "id": 1,
           "word": "حماسي",
-          "leadershipTypeId": "2",
+          "leadershipTypeId": "1",
           "rank": null
         },
         {
           "id": 2,
           "word": "حساس",
-          "leadershipTypeId": "3",
+          "leadershipTypeId": "2",
           "rank": null
         },
         {
           "id": 3,
           "word": "ثابت",
-          "leadershipTypeId": "4",
+          "leadershipTypeId": "3",
           "rank": null
         }
       ]
@@ -33,25 +33,25 @@
         {
           "id": 4,
           "word": "واثق",
-          "leadershipTypeId": "1",
+          "leadershipTypeId": "0",
           "rank": null
         },
         {
           "id": 5,
           "word": "رؤية",
-          "leadershipTypeId": "2",
+          "leadershipTypeId": "1",
           "rank": null
         },
         {
           "id": 6,
           "word": "هادئ",
-          "leadershipTypeId": "3",
+          "leadershipTypeId": "2",
           "rank": null
         },
         {
           "id": 7,
           "word": "محفوظ",
-          "leadershipTypeId": "4",
+          "leadershipTypeId": "3",
           "rank": null
         }
       ]
@@ -61,25 +61,25 @@
         {
           "id": 8,
           "word": "صلب",
-          "leadershipTypeId": "1",
+          "leadershipTypeId": "0",
           "rank": null
         },
         {
           "id": 9,
           "word": "نشيط",
-          "leadershipTypeId": "2",
+          "leadershipTypeId": "1",
           "rank": null
         },
         {
           "id": 10,
           "word": "غير مطالب",
-          "leadershipTypeId": "3",
+          "leadershipTypeId": "2",
           "rank": null
         },
         {
           "id": 11,
           "word": "عملي",
-          "leadershipTypeId": "4",
+          "leadershipTypeId": "3",
           "rank": null
         }
       ]
