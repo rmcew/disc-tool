@@ -10,7 +10,7 @@
         },
         {
           "id": 1,
-          "word": "Энтузиастичный",
+          "word": "Энтузиаст",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -38,7 +38,7 @@
         },
         {
           "id": 5,
-          "word": "Видение",
+          "word": "Дальновидный",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -50,7 +50,7 @@
         },
         {
           "id": 7,
-          "word": "Сдержанный Замкнутый",
+          "word": "Сдержанный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -72,7 +72,7 @@
         },
         {
           "id": 10,
-          "word": "Не Требовательный",
+          "word": "Нетребовательный",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Любит Перемены",
+          "word": "Любит изменения",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "Активатор",
+          "word": "Промоутер",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "Нравится Рутина",
+          "word": "Любит рутину",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "Основывается на Фактах",
+          "word": "Основывающийся на Фактах",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -122,13 +122,13 @@
         },
         {
           "id": 17,
-          "word": "Легко Вращается в Обществе",
+          "word": "Общительный",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Относительный",
+          "word": "Человек отношений",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -150,19 +150,19 @@
         },
         {
           "id": 21,
-          "word": "Любитель Повеселиться",
+          "word": "Веселый",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "Адаптирующийся",
+          "word": "Гибкий",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "Доскональный",
+          "word": "Детальный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,7 +172,7 @@
       "words": [
         {
           "id": 24,
-          "word": "Ведомый Целью",
+          "word": "Целеустремленный",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -184,13 +184,13 @@
         },
         {
           "id": 26,
-          "word": "Задумчивый",
+          "word": "Вдумчивый",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Любобытный Пытливый",
+          "word": "Любознательный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,7 +228,7 @@
       "words": [
         {
           "id": 32,
-          "word": "Самоуверенный, Полагается на Свои Силы",
+          "word": "Самостоятельный",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -240,13 +240,13 @@
         },
         {
           "id": 34,
-          "word": "Хорошо Слушает",
+          "word": "Хорошо слушатель",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "Цувствительный",
+          "word": "Чуткий",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,13 +256,13 @@
       "words": [
         {
           "id": 36,
-          "word": "Направляющий, Управляющий",
+          "word": "Прямолинейный",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "Идет на Риск",
+          "word": "Рискованный",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -274,7 +274,7 @@
         },
         {
           "id": 39,
-          "word": "Точный Аккуратный",
+          "word": "Точный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,13 +284,13 @@
       "words": [
         {
           "id": 40,
-          "word": "Берущий на Себя Ответственность",
+          "word": "Ответственный",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
-          "word": "Мотивирует",
+          "word": "Мотиватор",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -302,7 +302,7 @@
         },
         {
           "id": 43,
-          "word": "Управляемый Контролируемый",
+          "word": "Сдержанный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,19 +312,19 @@
       "words": [
         {
           "id": 44,
-          "word": "Решительный, Твердый",
+          "word": "Решительный",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Очень Многословный",
+          "word": "Очень вербальный",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Уступает",
+          "word": "Уступчивый",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -340,7 +340,7 @@
       "words": [
         {
           "id": 48,
-          "word": "Предприимчивый, Инициативный",
+          "word": "Предприимчивый",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -358,7 +358,7 @@
         },
         {
           "id": 51,
-          "word": "Организованный",
+          "word": "Упорядоченный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,7 +368,7 @@
       "words": [
         {
           "id": 52,
-          "word": "Соревнующийся",
+          "word": "Конкурирующий",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -380,13 +380,13 @@
         },
         {
           "id": 54,
-          "word": "Не любит изменения",
+          "word": "Не любит перемен",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Добросовестный",
+          "word": "Сознательный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -402,13 +402,13 @@
         },
         {
           "id": 57,
-          "word": "Нравится Разнообразие",
+          "word": "Любит Разнообразие",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Говорит шутки Повседневным тоном",
+          "word": "Сухой юмор",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -430,7 +430,7 @@
         },
         {
           "id": 61,
-          "word": "Ориентация на Группу",
+          "word": "Ориентирован на людей",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -442,7 +442,7 @@
         },
         {
           "id": 63,
-          "word": "Аналитичный",
+          "word": "Аналитический",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,7 +452,7 @@
       "words": [
         {
           "id": 64,
-          "word": "Авантюрный, Отважный",
+          "word": "Авантюрный",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -464,7 +464,7 @@
         },
         {
           "id": 66,
-          "word": "Заботливый",
+          "word": "Щедрый",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -498,7 +498,7 @@
         },
         {
           "id": 71,
-          "word": "Человек Расписания",
+          "word": "Запланированный",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,7 +508,7 @@
       "words": [
         {
           "id": 72,
-          "word": "Ориентированный на Действие",
+          "word": "Деятельный",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -526,7 +526,7 @@
         },
         {
           "id": 75,
-          "word": "Хорошо Обдумывает",
+          "word": "Хорошо Обдуманный",
           "leadershipTypeId": 3,
           "rank": null
         }
