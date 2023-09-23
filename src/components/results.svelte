@@ -26,7 +26,7 @@
     	},
     	jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
 		};
-		html2pdf().set(opt).from(element).save();
+		html2pdf().set(opt).from(element).outputPdf().save();
 	}
 
 	async function calculatepoints(store) {
