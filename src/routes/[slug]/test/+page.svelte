@@ -91,7 +91,7 @@
   {#if !showResults}
   <div class="flex-none sm:container sm:mx-auto mx-10" style="text-align: center">
     <p>
-      Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.
+      {testLanguage.instructionsText}
     </p>
   </div>  
   <div class="available flex w-full h-50 pb-3">
