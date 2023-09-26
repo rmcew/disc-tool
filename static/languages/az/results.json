@@ -1,29 +1,29 @@
 {
-  "heading": "Congratulations on completing the assessment!",
-  "primaryText": "Your primary personality profile is",
-  "secondaryText": "Your secondary personality profile is",
+  "heading": "Qiymətləndirmənin başa çatması münasibətilə təbrik edirik!",
+  "primaryText": "Əsas şəxsiyyət profiliniz:",
+  "secondaryText": "İkinci dərəcəli şəxsiyyət profiliniz belədir:",
   "attributes":[
     {
-      "name": "DOMINANCE",
-      "definition": "solves challenges, drives action and results, and moves at a fast pace.",
+      "name": "Dominant",
+      "definition": "çətin problemləri həll edir, hərəkətləri və nəticələri stimullaşdırır və sürətlə hərəkət edir.",
       "color": "rgb(0, 112, 192)"
     },
     {
-      "name": "INFLUENCE",
-      "definition": "gains energy from people, is enthusiastic, and prefers group participation.",
+      "name": "Təsir",
+      "definition": "Insanlardan enerji alır, həvəslidir və qrup iştirakına üstünlük verir.",
       "color": "rgb(255, 192, 0)"
     },
     {
-      "name": "STEADINESS",
-      "definition": "is loyal, listens well, employs specialized skills, and uses a calm approach.",
+      "name": "Balans",
+      "definition": "Bu sədaqət, yaxşı dinləmək bacarığı, xüsusi bacarıqlardan istifadə və sakit bir yanaşmadır.",
       "color": "rgb(112, 173, 71)"
     },
     {
-      "name": "COMPLIANCE",
-      "definition": "follows roles, focuses on details, thinks analytically, acts diplomatically.",
+      "name": "Uyğunluq",
+      "definition": "Rolları izləyir, detallara diqqət yetirir, analitik düşünür, diplomatik tərzdə hərəkət edir.",
       "color": "rgb(255, 0, 0)"
     }
   ],
-  "descriptionText": "We are all a blend of the 4 personality types which combine to make each of us unique.",
-  "button": "Download & Save"
+  "descriptionText": "Hamımız birlikdə hər birimizi unikal edən 4 şəxsiyyət növünün qarışığıdır.",
+  "button": "Yükləyin və Saxlayın"
 }
