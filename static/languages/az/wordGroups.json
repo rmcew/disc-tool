@@ -4,25 +4,25 @@
       "words": [
         {
           "id": 0,
-          "word": "Likes Control",
+          "word":  "Kontrol sevən",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 1,
-          "word": "Enthusiastic",
+          "word": "Həvəsli",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 2,
-          "word": "Sensitive",
+          "word": "Həssas",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 3,
-          "word": "Consistent",
+          "word": "Daimi",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -32,25 +32,25 @@
       "words": [
         {
           "id": 4,
-          "word": "Confident",
+          "word": "Özgüvənli",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
-          "word": "Visionary",
+          "word": "Vizyoner",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
-          "word": "Calm",
+          "word": "Sakit",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "Reserved",
+          "word": "Təmkinli",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "Firm", 
+          "word": "Möhkəm xasiyyətli", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "Energetic",
+          "word": "Fəal",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "Non-demanding",
+          "word": "Qeyri-tələbkar",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "Practical",
+          "word": "Praktiki",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Likes Change",
+          "word": "Dəyişiklər Sevən",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "Promoter",
+          "word": "Təşviqatçı",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "Rutin Sevən",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "Factual",
+          "word": "Faktlara fikir verən",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -116,25 +116,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Problem Solver",
+          "word": "Problem Həlledən",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
-          "word": "Mixes Easily",
+          "word": "Asanlıqla qarışdırır",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Relational",
+          "word": "Münasibətlərə önəm verən",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "Perfectionist",
+          "word": "Perfeksionist",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,25 +144,25 @@
       "words": [
         {
           "id": 20,
-          "word": "Bold",
+          "word": "Cəsarətli",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "Fun-loving",
+          "word": "Əylənməyi sevir",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "Adaptable",
+          "word": "Adaptasiya olan",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "Detailed",
+          "word": "Detallara fikir verən",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,25 +172,25 @@
       "words": [
         {
           "id": 24,
-          "word": "Goal Driven",
+          "word": "Hədəfə köklənən",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
-          "word": "Spontaneous",
+          "word": "Spontan",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "Thoughtful",
+          "word": "Düşünən",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Inquisitive",
+          "word": "Maraqlanan",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "Strong-willed",
+          "word": "Güclü İradəli",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "Likes New Ideas",
+          "word": "Yeni fikirlər sevir",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "Patient",
+          "word": "Səbirli",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "Persistent",
+          "word": "Israrlı",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,25 +228,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Self-reliant",
+          "word": "Müstəqil",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
-          "word": "Optimistic",
+          "word": "Optimist",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
-          "word": "Good Listener",
+          "word": "Yaxşı Dinləyici",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "Sensitive",
+          "word": "Həssas",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,25 +256,25 @@
       "words": [
         {
           "id": 36,
-          "word": "Directive",
+          "word": "Yönləndirən",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "Takes Risks",
+          "word": "Riskə gedən",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "Loyal",
+          "word": "Sadiq",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "Accurate",
+          "word": "Dəqiq",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,7 +284,7 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "Məsuliyyət götürən",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -296,13 +296,13 @@
         },
         {
           "id": 42,
-          "word": "Even-keeled",
+          "word": "Sabit",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "Özünü idarə edə bilən",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,25 +312,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "Qərarlı",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "Şifahi",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "Təslim olan",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "Təxmin edilə bilən",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "Çevik",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "Mehriban",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "Qərarsız",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "Nizamlı",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,25 +368,25 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "Rəqabətə meyilli",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "Popular",
+          "word": "Məşhur",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "Dəyişiklər sevməyən",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "Şüurlu",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "Produktiv",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "Fərqlilik sevən",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "Quru Zarafatlar",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "Vicdanlı",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -424,25 +424,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "Məqsədli",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "Qrupa köklənən",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "Empatik",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "Analitik düşünən",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,25 +452,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "Macera sevən",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "Təşəbbüskar",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "Tərbiyə edən",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "Kesin",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -480,25 +480,25 @@
       "words": [
         {
           "id": 68,
-          "word": "Independent",
+          "word": "Müstəqil",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "Ruhlandıran",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 70,
-          "word": "Tolerant",
+          "word": "Dözümlü",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "Planlaşdıran",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,25 +508,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "Hərəkətə köklənmiş",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "Dəyişiklər sevən",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "Sülh Yaradan",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "Əmin",
           "leadershipTypeId": 3,
           "rank": null
         }
