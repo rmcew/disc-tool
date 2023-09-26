@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Saját magadra vonatkoztatva állítsd  fel a sorrendet és húzd át a bal oldali oszlopban lévő szavakat a jobb oldalra.",
+  "scale":[
+    "Nagyon",
+    "Legtöbbször",
+    "Néha",
+    "Ritkán"
+  ],
+  "resetButton": "VISSZAÁLLÍTÁS",
+  "nextButton": "KÖVETKEZŐ"
+}
