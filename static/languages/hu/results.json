@@ -1,29 +1,29 @@
 {
-  "heading": "Congratulations on completing the assessment!",
-  "primaryText": "Your primary personality profile is",
-  "secondaryText": "Your secondary personality profile is",
+  "heading": "Gratulálunk a teszt kitöltéséhez!",
+  "primaryText": "Elsődleges személyiségtípusod",
+  "secondaryText": "Másodlagos személyiségtípusod",
   "attributes":[
     {
-      "name": "DOMINANCE",
-      "definition": "solves challenges, drives action and results, and moves at a fast pace.",
+      "name": "DOMINÁNS",
+      "definition": "megoldja a kihívásokat, cselekvésre és eredményekre ösztönöz, gyors tempóban halad.",
       "color": "rgb(0, 112, 192)"
     },
     {
-      "name": "INFLUENCE",
-      "definition": "gains energy from people, is enthusiastic, and prefers group participation.",
+      "name": "BEFOLYÁSOLÓ",
+      "definition": "az emberekből merít energiát, lelkes, kedveli a csapatmunkát.",
       "color": "rgb(255, 192, 0)"
     },
     {
-      "name": "STEADINESS",
-      "definition": "is loyal, listens well, employs specialized skills, and uses a calm approach.",
+      "name": "STABIL",
+      "definition": "lojális, jó meghallgató, speciális készségeket alkalmaz, higgadtan közelít az ügyekhez.",
       "color": "rgb(112, 173, 71)"
     },
     {
-      "name": "COMPLIANCE",
-      "definition": "follows roles, focuses on details, thinks analytically, acts diplomatically.",
+      "name": "EGYÜTTMŰKÖDŐ",
+      "definition": "követi a szerepeket, a részletekre koncentrál, analitikusan gondolkozik, diplomatikusan cselekszik.",
       "color": "rgb(255, 0, 0)"
     }
   ],
-  "descriptionText": "We are all a blend of the 4 personality types which combine to make each of us unique.",
-  "button": "Download & Save"
+  "descriptionText": "Mindnyájan a 4 személyiségtípus egy-egy kombinációja vagyunk, és ez tesz mindenkit egyedivé.",
+  "button": "Töltsd le, és mentsd el!"
 }

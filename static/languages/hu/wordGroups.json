@@ -4,25 +4,25 @@
       "words": [
         {
           "id": 0,
-          "word": "Likes Control",
+          "word": "Kontroláló",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 1,
-          "word": "Enthusiastic",
+          "word": "Lelkes",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 2,
-          "word": "Sensitive",
+          "word": "Érzékeny",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 3,
-          "word": "Consistent",
+          "word": "Következetes",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -32,25 +32,25 @@
       "words": [
         {
           "id": 4,
-          "word": "Confident",
+          "word": "Magabiztos",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
-          "word": "Visionary",
+          "word": "Vízióval rendelkezik",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
-          "word": "Calm",
+          "word": "Nyugodt",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "Reserved",
+          "word": "Visszafogott",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "Firm", 
+          "word": "Határozott", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "Energetic",
+          "word": "Energikus",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "Non-demanding",
+          "word": "Keveset vár el",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "Practical",
+          "word": "Gyakorlatias",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Likes Change",
+          "word": "Szereti a változást",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "Promoter",
+          "word": "Támogató",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "Szereti a rutint",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "Factual",
+          "word": "Tárgyilagos",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -116,25 +116,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Problem Solver",
+          "word": "Problémamegoldó",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
-          "word": "Mixes Easily",
+          "word": "Könnyen beilleszkedik",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Relational",
+          "word": "Kapcsolatorientált",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "Perfectionist",
+          "word": "Perfekcionista",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,25 +144,25 @@
       "words": [
         {
           "id": 20,
-          "word": "Bold",
+          "word": "Bátor",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "Fun-loving",
+          "word": "Jó kedélyű",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "Adaptable",
+          "word": "Alkalmazkodó",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "Detailed",
+          "word": "Aprólékos",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,25 +172,25 @@
       "words": [
         {
           "id": 24,
-          "word": "Goal Driven",
+          "word": "Célorientált",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
-          "word": "Spontaneous",
+          "word": "Spontán",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "Thoughtful",
+          "word": "Figyelmes",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Inquisitive",
+          "word": "Kíváncsi",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "Strong-willed",
+          "word": "Akaratos",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "Likes New Ideas",
+          "word": "Szereti az új ötleteket",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "Patient",
+          "word": "Türelmes",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "Persistent",
+          "word": "Kitartó",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,25 +228,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Self-reliant",
+          "word": "Önálló",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
-          "word": "Optimistic",
+          "word": "Optimista",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
-          "word": "Good Listener",
+          "word": "Jó hallgató",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "Sensitive",
+          "word": "Érzékeny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,25 +256,25 @@
       "words": [
         {
           "id": 36,
-          "word": "Directive",
+          "word": "Iránymutató",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "Takes Risks",
+          "word": "Kockázat vállaló",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "Loyal",
+          "word": "Hűséges",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "Accurate",
+          "word": "Pontos",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,25 +284,25 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "Felelősséget vállal",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
-          "word": "Motivator",
+          "word": "Motiváló",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 42,
-          "word": "Even-keeled",
+          "word": "Kiegyensúlyozott",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "Fegyelmezett",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,25 +312,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "Eltökélt",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "Verbális",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "Beadja a derekát",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "Kiszámítható",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "Vállalkozó szellemű",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "Barátságos",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "Határozatlan",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "Rendszerető",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,25 +368,25 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "Versengő",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "Popular",
+          "word": "Népszerű",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "Utálja a változást",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "Lelkiismeretes",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "Hatékony",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "Szereti a változatosságot",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "Száraz humora van",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "Kifinomult",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -424,25 +424,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "Céltudatos",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "Csapat-orientált",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "Együttérző",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "Elemző",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,25 +452,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "Kalandvágyó",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "Kezdeményező",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "Gondoskodó",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "Precíz",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -480,25 +480,25 @@
       "words": [
         {
           "id": 68,
-          "word": "Independent",
+          "word": "Független",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "Inspiráló",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 70,
-          "word": "Tolerant",
+          "word": "Toleráns",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "Szervezett",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,25 +508,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "Tettrekész",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "Szereti a változást",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "Béketeremtő",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "Megfontolt",
           "leadershipTypeId": 3,
           "rank": null
         }
