@@ -1,29 +1,29 @@
 {
-  "heading": "polski Congratulations on completing the assessment",
-  "primaryText": "Your primary personality profile is: ",
-  "secondaryText": "Your secondary personality profile is: ",
+  "heading": "Gratulujemy ukończenia zadania!",
+  "primaryText": "Twój główny profil osobowości to",
+  "secondaryText": "Twój drugorzędny profil osobowości to",
   "attributes":[
     {
-      "name": "DOMINANCE",
-      "definition": "solves challenges, drives action and results, and moves at a fast pace.",
+      "name": "DOMINUJĄCY",
+      "definition": "rozwiązuje wyzwania, napędza działania i wyniki oraz porusza się w szybkim tempie.",
       "color": "rgb(0, 112, 192)"
     },
     {
-      "name": "INFLUENCE",
-      "definition": "gains energy from people, is enthusiastic, and prefers group participation.",
+      "name": "WPŁYWOWY",
+      "definition": "czerpie energię od ludzi, jest entuzjastyczny i preferuje uczestnictwo w grupie.",
       "color": "rgb(255, 192, 0)"
     },
     {
-      "name": "STEADINESS",
-      "definition": "is loyal, listens well, employs specialized skills, and uses a calm approach.",
+      "name": "STAŁY/WSPIERAJĄCY",
+      "definition": "jest lojalny, dobrze słucha, wykorzystuje specjalistyczne umiejętności i cechuje się spokojnym podejściem.",
       "color": "rgb(112, 173, 71)"
     },
     {
-      "name": "COMPLIANCE",
-      "definition": "follows roles, focuses on details, thinks analytically, acts diplomatically.",
+      "name": "SUMIENNY",
+      "definition": "przestrzega ról, skupia się na szczegółach, myśli analitycznie, działa dyplomatycznie.",
       "color": "rgb(255, 0, 0)"
     }
   ],
-  "descriptionText": "We are all a blend of the 4 personality types which combine to make each of us unique.",
-  "button": "Download & Save"
+  "descriptionText": "Wszyscy jesteśmy mieszanką tych 4 typów osobowości, które razem sprawiają, że każdy z nas jest wyjątkowy.",
+  "button": "Pobierz i zapisz"
 }

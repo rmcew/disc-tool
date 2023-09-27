@@ -1,11 +1,11 @@
 {
-  "instructionsText": "Polski Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.",
+  "instructionsText": "Przeciągaj słowa z lewej kolumny na prawą w taki sposób, aby uszeregować je w kolejności od tych, które najbardziej odpowiadają temu, jak postrzegasz siebie, po te które najmniej temu odpowiadają.",
   "scale":[
-    "bardzo",
-    "przeważnie",
-    "trochę",
-    "wcale"
+    "Bardzo",
+    "Najczęściej",
+    "Czasami",
+    "Rzadko"
   ],
-  "resetButton": "RESET",
-  "nextButton": "NEXT"
+  "resetButton": "Reset",
+  "nextButton": "Dalej"
 }

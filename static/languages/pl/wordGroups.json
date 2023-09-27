@@ -4,25 +4,25 @@
       "words": [
         {
           "id": 0,
-          "word": "lubi kontrolować",
+          "word": "Lubi kontrolować",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 1,
-          "word": "entuzjastyczny",
+          "word": "Entuzjastyczny",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 2,
-          "word": "wrażliwy",
+          "word": "Wrażliwy",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 3,
-          "word": "konsekwentny",
+          "word": "Konsekwentny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -32,25 +32,25 @@
       "words": [
         {
           "id": 4,
-          "word": "pewny siebie",
+          "word": "Pewny siebie",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
-          "word": "wizjoner",
+          "word": "Wizjoner",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
-          "word": "opanowany, spokojny",
+          "word": "Opanowany, spokojny",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "z rezerwą, powściągliwy",
+          "word": "Z rezerwą, powściągliwy",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "stały, stanowczy", 
+          "word": "Stały, stanowczy", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "żywy",
+          "word": "Energiczny",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "niewymagający",
+          "word": "Niewymagający",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "praktyczny",
+          "word": "Praktyczny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "lubi zmiany",
+          "word": "Lubi zmiany",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "promotor",
+          "word": "Promujący, promotor",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "lubi rutynę",
+          "word": "Lubi rutynę",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "rzeczowy",
+          "word": "Rzeczowy, nastawiony na fakty",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -116,25 +116,25 @@
       "words": [
         {
           "id": 16,
-          "word": "rozwiązuje problemy",
+          "word": "Rozwiązuje problemy",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
-          "word": "łatwo odnajduje się wśród ludzi",
+          "word": "Łatwo odnajduje się wśród ludzi",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "relacyjny",
+          "word": "Nastawiony na relacje",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "perfekcjonista",
+          "word": "Perfekcjonista",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,25 +144,25 @@
       "words": [
         {
           "id": 20,
-          "word": "odważny, śmiały",
+          "word": "Odważny, śmiały",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "lubi zabawę",
+          "word": "Lubi zabawę",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "łatwo się przystosowuje",
+          "word": "Łatwo się przystosowuje",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "szczegółowy",
+          "word": "Szczegółowy",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,25 +172,25 @@
       "words": [
         {
           "id": 24,
-          "word": "nastawiony na cel",
+          "word": "Nastawiony na cel",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
-          "word": "spontaniczny",
+          "word": "Spontaniczny",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "myśli o innych",
+          "word": "Myśli o innych",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "dociekliwy",
+          "word": "Dociekliwy",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "ma silną wolę",
+          "word": "Ma silną wolę",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "lubi nowe pomysły",
+          "word": "Lubi nowe pomysły",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "cierpliwy",
+          "word": "Cierpliwy",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "wytrwały, uporczywy",
+          "word": "Wytrwały, uporczywy",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,25 +228,25 @@
       "words": [
         {
           "id": 32,
-          "word": "polegający na sobie, samodzielny",
+          "word": "Polegający na sobie, samodzielny",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
-          "word": "optymistyczny",
+          "word": "Optymistyczny",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
-          "word": "dobry słuchacz",
+          "word": "Dobry słuchacz",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "wrażliwy, delikatny",
+          "word": "Wrażliwy, delikatny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,25 +256,25 @@
       "words": [
         {
           "id": 36,
-          "word": "bezpośredni",
+          "word": "Zarządzający, dyrektywny",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "podejmuje ryzyko",
+          "word": "Podejmuje ryzyko",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "lojalny",
+          "word": "Lojalny",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "precyzyjny",
+          "word": "Precyzyjny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,25 +284,25 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "Bierze sprawy w swoje ręce",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
-          "word": "Motivator",
+          "word": "Motywuje innych",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 42,
-          "word": "Even-keeled",
+          "word": "Zrównoważony",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "Opanowany",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,25 +312,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "Zdeterminowany",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "Wymowny (dużo mówi, łatwo mu wyrazić siebie)",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "Ulegający",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "Przewidywalny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "Przedsiębiorczy",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "Przyjazny",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "Niezdecydowany",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "Uporządkowany",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,25 +368,25 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "Lubi współzawodnictwo",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "Popular",
+          "word": "Lubiany",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "Nie lubi zmian",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "Sumienny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "Produktywny",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "Lubi różnorodność",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "Specyficzne poczucie humoru",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "Wnikliwy",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -424,25 +424,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "Działający celowo",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "Zorientowany na grupę, lubi pracę w grupie",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "Współczujący",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "Analityczny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,25 +452,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "Śmiały",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "Inicjator",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "Troskliwy, opiekuńczy",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "Dokładny",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -480,25 +480,25 @@
       "words": [
         {
           "id": 68,
-          "word": "Independent",
+          "word": "Niezależny",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "Inspirujący",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 70,
-          "word": "Tolerant",
+          "word": "Tolerancyjny",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "Zaplanowany",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,25 +508,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "Nastawiony na działanie",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "Lubi zmiany",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "Mediator, czyniący pokój",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "Rozważny, działa po namyśle",
           "leadershipTypeId": 3,
           "rank": null
         }
