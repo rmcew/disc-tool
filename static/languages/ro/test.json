@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Trage și plasează cuvintele din stânga într-o ordine clasată din dreapta care se potrivește cel mai bine cu viziunea ta despre tine.",
+  "scale":[
+    "Foarte mult",
+    "De cele mai multe ori",
+    "Uneori",
+    "Rar"
+  ],
+  "resetButton": "RESETEAZĂ",
+  "nextButton": "URMĂTORUL"
+}
