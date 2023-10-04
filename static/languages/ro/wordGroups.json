@@ -122,7 +122,7 @@
         },
         {
           "id": 17,
-          "word": "Mă adaptez ușor unui ru",
+          "word": "Mă adaptez ușor unui grup",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -144,13 +144,13 @@
       "words": [
         {
           "id": 20,
-          "word": "ndrăzneț",
+          "word": "Îndrăzneț",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "Amator de distrac ii",
+          "word": "Amator de distracții",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -200,13 +200,13 @@
       "words": [
         {
           "id": 28,
-          "word": "Cu voință uternică",
+          "word": "Cu voință puternică",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "mi plac ideile noi",
+          "word": "Îmi plac ideile noi",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -228,7 +228,7 @@
       "words": [
         {
           "id": 32,
-          "word": "Încrezător în fo ele ro rii",
+          "word": "Încrezător în forțele proprii",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -318,13 +318,13 @@
         },
         {
           "id": 45,
-          "word": "Foarte vorbăre",
+          "word": "Foarte vorbăreț",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Renun u or",
+          "word": "Renunț ușor",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -340,7 +340,7 @@
       "words": [
         {
           "id": 48,
-          "word": "Intre rinzător",
+          "word": "Intreprinzător",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -386,7 +386,7 @@
         },
         {
           "id": 55,
-          "word": "Con tiincios",
+          "word": "Conștiincios",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -402,7 +402,7 @@
         },
         {
           "id": 57,
-          "word": "mi place varietatea",
+          "word": "Îmi place varietatea",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -430,13 +430,13 @@
         },
         {
           "id": 61,
-          "word": "orientat s re ru",
+          "word": "orientat spre grup",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "n ele ător",
+          "word": "Înțelegător",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -458,19 +458,19 @@
         },
         {
           "id": 65,
-          "word": "Ini iator",
+          "word": "Inițiator",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Dezvolt e al ii",
+          "word": "Dezvolt pe alții",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Ti icar",
+          "word": "Tipicar",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -498,7 +498,7 @@
         },
         {
           "id": 71,
-          "word": "Programator anizat",
+          "word": "Programat-organizat",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,19 +508,19 @@
       "words": [
         {
           "id": 72,
-          "word": "Orientat spre ac iune",
+          "word": "Orientat spre acțiune",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "mi place schimbarea",
+          "word": "Îmi place schimbarea",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "mpăciuitor",
+          "word": "Împăciuitor",
           "leadershipTypeId": 2,
           "rank": null
         },
