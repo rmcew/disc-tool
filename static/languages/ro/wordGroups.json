@@ -4,25 +4,25 @@
       "words": [
         {
           "id": 0,
-          "word": "Likes Control",
+          "word": "Îmi place controlul",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 1,
-          "word": "Enthusiastic",
+          "word": "Entuziast",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 2,
-          "word": "Sensitive",
+          "word": "Sensibil",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 3,
-          "word": "Consistent",
+          "word": "Consecvent",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -32,25 +32,25 @@
       "words": [
         {
           "id": 4,
-          "word": "Confident",
+          "word": "Increzător",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
-          "word": "Visionary",
+          "word": "Vizionar",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
-          "word": "Calm",
+          "word": "Liniştit",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "Reserved",
+          "word": "Rezervat",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "Firm", 
+          "word": "Ferm", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "Energetic",
+          "word": "Energic",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "Non-demanding",
+          "word": "Ușor de mulțumit",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "Practical",
+          "word": "Practic",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Likes Change",
+          "word": "Îmi place schimbarea",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "Promoter",
+          "word": "Promotor",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "Îmi place rutina",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "Factual",
+          "word": "Realist",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -116,25 +116,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Problem Solver",
+          "word": "Rezolv problemele",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
-          "word": "Mixes Easily",
+          "word": "Mă adaptez ușor unui ru",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Relational",
+          "word": "Relațional",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "Perfectionist",
+          "word": "Perfecționist",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,25 +144,25 @@
       "words": [
         {
           "id": 20,
-          "word": "Bold",
+          "word": "ndrăzneț",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "Fun-loving",
+          "word": "Amator de distrac ii",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "Adaptable",
+          "word": "Adaptabil",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "Detailed",
+          "word": "Detaliat",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,25 +172,25 @@
       "words": [
         {
           "id": 24,
-          "word": "Goal Driven",
+          "word": "Îndreptat spre un sco",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
-          "word": "Spontaneous",
+          "word": "Spontan",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "Thoughtful",
+          "word": "Gânditor",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Inquisitive",
+          "word": "Curios",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "Strong-willed",
+          "word": "Cu voință uternică",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "Likes New Ideas",
+          "word": "mi plac ideile noi",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "Patient",
+          "word": "Răbdător",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "Persistent",
+          "word": "Perseverent",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,25 +228,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Self-reliant",
+          "word": "Încrezător în fo ele ro rii",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
-          "word": "Optimistic",
+          "word": "Optimist",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
-          "word": "Good Listener",
+          "word": "Bun ascultător",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "Sensitive",
+          "word": "Sensibil",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,25 +256,25 @@
       "words": [
         {
           "id": 36,
-          "word": "Directive",
+          "word": "Perseverent",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "Takes Risks",
+          "word": "Îmi asum riscuri",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "Loyal",
+          "word": "Loial",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "Accurate",
+          "word": "Exact",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,7 +284,7 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "Preiau conducerea",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -296,13 +296,13 @@
         },
         {
           "id": 42,
-          "word": "Even-keeled",
+          "word": "Echilibrat",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "Controlat",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,25 +312,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "Hotărât",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "Foarte vorbăre",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "Renun u or",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "Previzibil",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "Intre rinzător",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "Prietenos",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "Indecis",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "Ordonat",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,7 +368,7 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "Competitiv",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -380,13 +380,13 @@
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "Urăsc schimbarea",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "Con tiincios",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "Productiv",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "mi place varietatea",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "Umor sec",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "Cu discernământ foarte bun",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -424,25 +424,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "Hotărât",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "orientat s re ru",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "n ele ător",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "Analitic",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,25 +452,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "Aventuros",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "Ini iator",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "Dezvolt e al ii",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "Ti icar",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -486,7 +486,7 @@
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "Model pentru alții",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -498,7 +498,7 @@
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "Programator anizat",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,25 +508,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "Orientat spre ac iune",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "mi place schimbarea",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "mpăciuitor",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "Prudent",
           "leadershipTypeId": 3,
           "rank": null
         }

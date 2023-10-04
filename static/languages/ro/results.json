@@ -1,29 +1,29 @@
 {
-  "heading": "Congratulations on completing the assessment!",
-  "primaryText": "Your primary personality profile is",
-  "secondaryText": "Your secondary personality profile is",
+  "heading": "Felicitări pentru finalizarea evaluării!",
+  "primaryText": "Profilul tău principal de personalitate este",
+  "secondaryText": "Profilul tău secundar de personalitate este:",
   "attributes":[
     {
-      "name": "DOMINANCE",
-      "definition": "solves challenges, drives action and results, and moves at a fast pace.",
+      "name": "DOMINANT",
+      "definition": "Rezolvă provocări, stimulează acțiunea și rezultatele și se mișcă într-un ritm rapid.",
       "color": "rgb(0, 112, 192)"
     },
     {
-      "name": "INFLUENCE",
-      "definition": "gains energy from people, is enthusiastic, and prefers group participation.",
+      "name": "INFLUENT",
+      "definition": "câștigă energie de la oameni, este entuziast și preferă participarea în grup.",
       "color": "rgb(255, 192, 0)"
     },
     {
-      "name": "STEADINESS",
-      "definition": "is loyal, listens well, employs specialized skills, and uses a calm approach.",
+      "name": "STATORNIC",
+      "definition": "este loial, ascultă bine, folosește abilități specializate și folosește o abordare calmă.",
       "color": "rgb(112, 173, 71)"
     },
     {
-      "name": "COMPLIANCE",
-      "definition": "follows roles, focuses on details, thinks analytically, acts diplomatically.",
+      "name": "CONȘTIINCIOS",
+      "definition": "Urmărește roluri, se concentrează pe detalii, gândește analitic, acționează diplomatic.",
       "color": "rgb(255, 0, 0)"
     }
   ],
-  "descriptionText": "We are all a blend of the 4 personality types which combine to make each of us unique.",
-  "button": "Download & Save"
+  "descriptionText": "Cu toții suntem un amestec al celor 4 tipuri de personalitate care se combină pentru a ne face pe fiecare dintre noi unic.",
+  "button": "Descarcă și salvează"
 }
