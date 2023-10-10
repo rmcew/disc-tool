@@ -1,11 +1,11 @@
 {
-  "instructionsText": "Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.",
+  "instructionsText": "Soldaki kelimeleri, kendinize ilişkin görüşünüze en uygun şekilde sağdaki sıralı sıraya sürükleyip bırakın.",
   "scale":[
-    "Very Much",
-    "Most Times",
-    "Sometimes",
-    "Rarely"
+    "Çok fazla",
+    "Çoğu zaman",
+    "Bazen",
+    "Nadiren"
   ],
-  "resetButton": "RESET",
-  "nextButton": "NEXT"
+  "resetButton": "SIFIRLA",
+  "nextButton": "SONRAKİ"
 }
