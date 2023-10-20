@@ -50,7 +50,7 @@
         },
         {
           "id": 7,
-          "word": "Ağzı kapalıyım",
+          "word": "Mesafeliyim",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -66,7 +66,7 @@
         },
         {
           "id": 9,
-          "word": "Enerjikim",
+          "word": "Enerjiğim",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -78,7 +78,7 @@
         },
         {
           "id": 11,
-          "word": "Pratikim",
+          "word": "Pratik biriyim",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -100,7 +100,7 @@
         },
         {
           "id": 14,
-          "word": "Rutinden zevk alırım",
+          "word": "Rutinden hoşlanırım",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -122,7 +122,7 @@
         },
         {
           "id": 17,
-          "word": "Çok kolay karıştırırım",
+          "word": "Ortama kolay karışırım",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -178,13 +178,13 @@
         },
         {
           "id": 25,
-          "word": "Düşünmeden hareket ederim",
+          "word": "Plansız hareket ederim",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "Başkalarını düşünürüm",
+          "word": "Düşünceliyim",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -228,7 +228,7 @@
       "words": [
         {
           "id": 32,
-          "word": "Kendine bilen",
+          "word": "Kendi kendime yeterim",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -268,13 +268,13 @@
         },
         {
           "id": 38,
-          "word": "Sadıkım",
+          "word": "Sadığım",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "Dakiğim",
+          "word": "Kesinim",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,19 +284,19 @@
       "words": [
         {
           "id": 40,
-          "word": "Sorumluluğu üstlenirim",
+          "word": "Sorumluluk üstlenirim",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
-          "word": "Motive edenim",
+          "word": "Motive ederim",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 42,
-          "word": "Durgunum",
+          "word": "Sakinim",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -312,13 +312,13 @@
       "words": [
         {
           "id": 44,
-          "word": "Azimliyim",
+          "word": "Kararlıyım",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Çok konuşkanım",
+          "word": "Konuşkanım",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -358,7 +358,7 @@
         },
         {
           "id": 51,
-          "word": "İtaatkarım",
+          "word": "Düzenliyim",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -408,7 +408,7 @@
         },
         {
           "id": 58,
-          "word": "Nükteli olmayı severim",
+          "word": "Kuru mizah yaparım",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -424,7 +424,7 @@
       "words": [
         {
           "id": 60,
-          "word": "Maksatlıyım",
+          "word": "Amaç odaklıyım",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -436,13 +436,13 @@
         },
         {
           "id": 62,
-          "word": "Sempatikim",
+          "word": "Sempatiğim",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analitikim",
+          "word": "Analitiğim",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -520,7 +520,7 @@
         },
         {
           "id": 74,
-          "word": "Barıştırıcıyım",
+          "word": "Barışçılım",
           "leadershipTypeId": 2,
           "rank": null
         },
