@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.",
+  "scale":[
+    "Very Much",
+    "Most Times",
+    "Sometimes",
+    "Rarely"
+  ],
+  "resetButton": "RESET",
+  "nextButton": "NEXT"
+}
