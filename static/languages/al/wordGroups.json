@@ -72,7 +72,7 @@
         },
         {
           "id": 10,
-          "word": "Jo-kërkues",
+          "word": "Jo kërkues",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -88,7 +88,7 @@
       "words": [
         {
           "id": 12,
-          "word": "I pëlqen ndryshimi",
+          "word": "I pëlqejnë ndryshimet",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -106,7 +106,7 @@
         },
         {
           "id": 15,
-          "word": "Faktik",
+          "word": "Bazohet në fakte",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -122,13 +122,13 @@
         },
         {
           "id": 17,
-          "word": "Përzihet lehtë me të tjerë",
+          "word": "Bashkohet lehtë me të tjerët",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Marrëdhënior",
+          "word": "Karakterizohet nga marrëdhëniet miqësore",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -150,19 +150,19 @@
         },
         {
           "id": 21,
-          "word": "Dëfrimdashës",
+          "word": "Dëfrim dashës",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "I adaptueshëm",
+          "word": "I përshtatshëm lehtë",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "I hollësishëm",
+          "word": "Detajist",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,7 +172,7 @@
       "words": [
         {
           "id": 24,
-          "word": "I shtyrë nga synimi",
+          "word": "Nxitet nga synimi",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -184,13 +184,13 @@
         },
         {
           "id": 26,
-          "word": "I mendueshëm",
+          "word": "Tregon kujdes për të tjerët ",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Hetues",
+          "word": "Kureshtar",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -206,13 +206,13 @@
         },
         {
           "id": 29,
-          "word": "Pëlqen idetë e reja",
+          "word": "I pëlqejnë idetë e reja",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "I duruar",
+          "word": "I durueshëm",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -262,7 +262,7 @@
         },
         {
           "id": 37,
-          "word": "Merr rreziqe",
+          "word": "Ndërmerr rreziqe",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -284,7 +284,7 @@
       "words": [
         {
           "id": 40,
-          "word": "Merr drejtimin",
+          "word": "Merr kontrollin",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -296,13 +296,13 @@
         },
         {
           "id": 42,
-          "word": "Me humor stabël",
+          "word": "I njëtrajtshëm",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "I kontrolluar",
+          "word": "Kontrollues",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -318,13 +318,13 @@
         },
         {
           "id": 45,
-          "word": "Shprehet shumë me fjalë",
+          "word": "Shprehet me fjalë",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Dorëzohet",
+          "word": "Dorëzohet lehtë",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -340,7 +340,7 @@
       "words": [
         {
           "id": 48,
-          "word": "Me iniciativë",
+          "word": "Ndërmarrës",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -368,13 +368,13 @@
       "words": [
         {
           "id": 52,
-          "word": "Konkurrues ",
+          "word": "Konkurrues",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "I pëlqyer nga të gjithë",
+          "word": "I famshëm",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -386,7 +386,7 @@
         },
         {
           "id": 55,
-          "word": "I zellshëm",
+          "word": "I ndërgjegjshëm",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -402,19 +402,19 @@
         },
         {
           "id": 57,
-          "word": "I pëlqen larmia",
+          "word": "I pëlqen shumëllojshmëria",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Humor të hollë",
+          "word": "Humor i hollë",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Dallues",
+          "word": "Mendjehollë, i mprehtë",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -430,13 +430,13 @@
         },
         {
           "id": 61,
-          "word": "I orientuar nga grupi",
+          "word": "I pëlqen puna në grup",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Keqardhës",
+          "word": "I dhembshur",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -452,7 +452,7 @@
       "words": [
         {
           "id": 64,
-          "word": "Aventurist",
+          "word": "Aventurier",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -464,13 +464,13 @@
         },
         {
           "id": 66,
-          "word": "I përkujdesur",
+          "word": "Inkurajon rritje dhe zhvillim",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Preciz",
+          "word": "I saktë, preçizë",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -498,7 +498,7 @@
         },
         {
           "id": 71,
-          "word": "Me orar",
+          "word": "I planifikuar",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,13 +508,13 @@
       "words": [
         {
           "id": 72,
-          "word": "I orientuar nga veprimi",
+          "word": "I orientuar drejt veprimit",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "I pëlqen ndryshimi",
+          "word": "I pëlqejnë ndryshimet",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -526,7 +526,7 @@
         },
         {
           "id": 75,
-          "word": "I panxituar",
+          "word": "I  qëllimshëm",
           "leadershipTypeId": 3,
           "rank": null
         }

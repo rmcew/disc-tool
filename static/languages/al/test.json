@@ -1,11 +1,11 @@
 {
-  "instructionsText": "Drag and drop the words on the left into a ranked order on the right that most closely fits your view of yourself.",
+  "instructionsText": "Tërhiqi fjalët që gjenden në të majtë dhe vendosi në anën e djathtë sipas renditjes që i përshtatet më shumë pikëpamjes tënde për veten tuaj.",
   "scale":[
-    "Very Much",
-    "Most Times",
-    "Sometimes",
-    "Rarely"
+    "Shumë shpesh",
+    "Shpesh",
+    "Ndonjëherë",
+    "Rrallë"
   ],
-  "resetButton": "RESET",
-  "nextButton": "NEXT"
+  "resetButton": "Rifillo",
+  "nextButton": "Hapi tjetër"
 }
