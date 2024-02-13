@@ -72,7 +72,7 @@
         },
         {
           "id": 10,
-          "word": "Отстъпчив",
+          "word": "Не изискващ",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -88,7 +88,7 @@
       "words": [
         {
           "id": 12,
-          "word": "Харесва промяната",
+          "word": "Амбициозен",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -100,7 +100,7 @@
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "Харесва рутината",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -514,7 +514,7 @@
         },
         {
           "id": 73,
-          "word": "Харесва промяната",
+          "word": "Харизматичен",
           "leadershipTypeId": 1,
           "rank": null
         },
