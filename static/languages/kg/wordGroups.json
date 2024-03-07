@@ -1,0 +1,536 @@
+{
+  "wordGroups": [
+    {
+      "words": [
+        {
+          "id": 0,
+          "word": "Контрол жагат",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "Ыктанган",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "Сезимтал",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "Иретүү",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 4,
+          "word": "Ишенимдүүмүн",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "Келечекке караган",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "Жоош",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "Өзун кармаган",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        { 
+          "id": 8, 
+          "word": "Бекем", 
+          "leadershipTypeId": 0, 
+          "rank": null 
+        },
+        {
+          "id": 9,
+          "word": "Энергичный",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "Талап кылбаган",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "Практикалык",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 12,
+          "word": "Өзгөрүүлөрдү жактырам",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "Промоутер",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "Күнүмдүк  иштер жагат",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "Фактыны жактырам",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 16,
+          "word": "Көйгөйдү чечүүчү",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "Оңой аралашам",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "Мамиле түзүүчү",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "Перфекционист",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 20,
+          "word": "Тайманбайм",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "Көңүл ачууну жактырам",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "Ийилчекмин",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "Майда-чүдөсүнө көнүл бурган",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 24,
+          "word": "Максатка умтулуучу",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "Спонтанный",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "Ойлонгон",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "Кызыккан",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 28,
+          "word": "Эрки күчтүү",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "Жаңы идеяларды жактырам",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "Чыдамдуу",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "Туруктуу",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 32,
+          "word": "Өзүн-өзү камсыз кылган",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "Оптимист",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "Жакшы угуучу",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "Сезимтал",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 36,
+          "word": "Түз сүйлөгөн",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "Тобокелге барган",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "Берилген",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "Такмын",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 40,
+          "word": "Жоопкерчиликтүү",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "Мотиватор",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "Оор басырыктуу",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "Сабырдуу",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 44,
+          "word": "Чечкиндүү",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "Сөз менен түшүндүрүүчү",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "Макул болуучу",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "Алдын ала билинген",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 48,
+          "word": "Демилгелүү",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "Достукту жакшы көргөн",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "Чечкиндүү эмес",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "Тартиптүү",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 52,
+          "word": "Атаандаш",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "Таанымал",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "Өзгөрүүнү жактырбаган",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "Аң-сезимдүү",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 56,
+          "word": "Жемиштүү",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "Ар түрдүүлүктү жактырат",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "Түшүнүксүз тамашалоо",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "Тез түшүнүүчү",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 60,
+          "word": "Максатка умтулган",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "Адамдарга багытталган",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "Боорукер",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "Аналитикалык",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 64,
+          "word": "Принципсиз адам",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "Баштоочу",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "Берешен",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "Так адам",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 68,
+          "word": "Көзкарандысыз",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "Шыктандыруучу",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "Чыдамдуу",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "Пландаштырылган",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 72,
+          "word": "Пландаштырылган",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "Өзгөрүүнү жакшы көргөн",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "Тынчтыкты орнотуучу",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "Алдын ала ниеттенген",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    }
+  ]
+}
