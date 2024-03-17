@@ -1,0 +1,536 @@
+{
+  "wordGroups": [
+    {
+      "words": [
+        {
+          "id": 0,
+          "word": "Voli kontrolirati",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "Entuzijastičan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "Osjetljiv",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "Dosljedan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 4,
+          "word": "Samopouzdan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "Vizionar",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "Smiren",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "Rezerviran",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        { 
+          "id": 8, 
+          "word": "Čvrst", 
+          "leadershipTypeId": 0, 
+          "rank": null 
+        },
+        {
+          "id": 9,
+          "word": "Energičan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "Nezahtjevan",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "Praktičan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 12,
+          "word": "Voli promjenu",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "Promotor",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "Uživa u rutini",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "Činjeničan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 16,
+          "word": "Rješava probleme",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "Društven",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "Odnosan",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "Perfekcionist",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 20,
+          "word": "Odvažan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "Voli zabavu",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "Prilagodljiv",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "Detaljan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 24,
+          "word": "Usmjeren na ciljeve",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "Spontan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "Promišljen",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "Radoznao",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 28,
+          "word": "Tvrdoglav",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "Voli nove ideje",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "Strpljiv",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "Uporan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 32,
+          "word": "Samopouzdan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "Optimističan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "Dobar slušatelj",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "Osjetljiv",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 36,
+          "word": "Vodi",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "Prihvaća rizik",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "Odan",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "Točan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 40,
+          "word": "Preuzima odgovornost",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "Pokretač",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "Ravnomjeran",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "Kontrolira se",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 44,
+          "word": "Odlučan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "Komunikativan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "Popušta",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "Predvidljiv",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 48,
+          "word": "Poduzetan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "Prijateljski",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "Neodlučan",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "Uredan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 52,
+          "word": "Kompetitivan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "Popularan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "Odbija promjene",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "Savjestan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 56,
+          "word": "Produktivan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "Voli raznolikost",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "Suhi smisao za humor",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "Pronicljiv",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 60,
+          "word": "Svrhovit",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "Grupno orijentiran",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "Suosjećajan",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "Analitičan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 64,
+          "word": "Avanturističan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "Inicijator",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "Njegujući",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "Precizan",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 68,
+          "word": "Neovisan",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "Inspirativan",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "Tolerantan",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "Drži se rasporeda",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 72,
+          "word": "Voli akciju",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "Voli promjenu",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "Mirotvorac",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "Namjeran",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    }
+  ]
+}

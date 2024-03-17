@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Povucite i ispustite riječi s lijeve strane u rangirani poredak s desne strane koji najviše odgovara vašem viđenju vas samih.",
+  "scale":[
+    "Jako često",
+    "Većinom",
+    "Ponekad",
+    "Rijetko"
+  ],
+  "resetButton": "RESETIRANJE",
+  "nextButton": "SLJEDEĆI"
+}

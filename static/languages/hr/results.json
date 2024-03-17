@@ -1,0 +1,29 @@
+{
+  "heading": "Završili ste procjenu. Čestitamo!",
+  "primaryText": "Vaš primarni profil osobnosti je",
+  "secondaryText": "Vaš sekundarni profil osobnosti je",
+  "attributes":[
+    {
+      "name": "DOMINANTAN",
+      "definition": "rješava izazove, pokreće akciju i rezultate i kreće se brzim tempom.",
+      "color": "rgb(0, 112, 192)"
+    },
+    {
+      "name": "UTJECAJAN",
+      "definition": "dobiva energiju od ljudi, entuzijastičan i preferira grupni rad.",
+      "color": "rgb(255, 192, 0)"
+    },
+    {
+      "name": "POSTOJAN",
+      "definition": "odan, dobro sluša, koristi specijalizirane vještine i koristi smiren pristup.",
+      "color": "rgb(112, 173, 71)"
+    },
+    {
+      "name": "POPUSTLJIV-SAVJESTAN",
+      "definition": "prati uloge, fokusira se na detalje, razmišlja analitički, ponaša se diplomatski.",
+      "color": "rgb(255, 0, 0)"
+    }
+  ],
+  "descriptionText": "Svi smo mi mješavina 4 tipa osobnosti koji u kombinaciji čine svakog od nas jedinstvenim.",
+  "button": "Preuzmite i spremite"
+}
