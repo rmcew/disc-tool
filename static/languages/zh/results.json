@@ -1,29 +1,29 @@
 {
-  "heading": "Congratulations on completing the assessment!",
-  "primaryText": "Your primary personality profile is",
-  "secondaryText": "Your secondary personality profile is",
+  "heading": "恭喜您完成了测试",
+  "primaryText": "您的主要性格特征是",
+  "secondaryText": "您的第二人格特征是",
   "attributes":[
     {
-      "name": "DOMINANCE",
-      "definition": "solves challenges, drives action and results, and moves at a fast pace.",
+      "name": "支配型",
+      "definition": "解决挑战，推动执行，结果导向，快速前进。",
       "color": "rgb(0, 112, 192)"
     },
     {
-      "name": "INFLUENCE",
-      "definition": "gains energy from people, is enthusiastic, and prefers group participation.",
+      "name": "影响型",
+      "definition": "从人群中获得能量，充满热情，喜欢参与团体活动。",
       "color": "rgb(255, 192, 0)"
     },
     {
-      "name": "STEADINESS",
-      "definition": "is loyal, listens well, employs specialized skills, and uses a calm approach.",
+      "name": "稳定型",
+      "definition": "忠诚、善于倾听、运用专业技能，遇事冷静。",
       "color": "rgb(112, 173, 71)"
     },
     {
-      "name": "COMPLIANCE",
-      "definition": "follows roles, focuses on details, thinks analytically, acts diplomatically.",
+      "name": "服从型",
+      "definition": "遵循角色、注重细节、善于思考分析、外交行事。",
       "color": "rgb(255, 0, 0)"
     }
   ],
-  "descriptionText": "We are all a blend of the 4 personality types which combine to make each of us unique.",
-  "button": "Download & Save"
+  "descriptionText": "我们都是四种性格类型的混合体，这四种性格类型的结合使我们每个人都独一无二。",
+  "button": "下载&保存"
 }

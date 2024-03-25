@@ -32,25 +32,25 @@
       "words": [
         {
           "id": 4,
-          "word": "Confident",
+          "word": "自信",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
-          "word": "Visionary",
+          "word": "有远见",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
-          "word": "Calm",
+          "word": "冷静",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "Reserved",
+          "word": "保守",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "Firm", 
+          "word": "坚定", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "Energetic",
+          "word": "精力充沛",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "Non-demanding",
+          "word": "不苛求",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "Practical",
+          "word": "现实",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Likes Change",
+          "word": "喜欢变化",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "Promoter",
+          "word": "发起倡导者",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "按部就班",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "Factual",
+          "word": "理性",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -116,25 +116,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Problem Solver",
+          "word": "问题解决者",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
-          "word": "Mixes Easily",
+          "word": "容易融入",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Relational",
+          "word": "愿意建立关系",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "Perfectionist",
+          "word": "完美主义",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,25 +144,25 @@
       "words": [
         {
           "id": 20,
-          "word": "Bold",
+          "word": "大胆",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "Fun-loving",
+          "word": "喜欢有趣的事情",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "Adaptable",
+          "word": "能够适应的",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "Detailed",
+          "word": "在意细节的",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,25 +172,25 @@
       "words": [
         {
           "id": 24,
-          "word": "Goal Driven",
+          "word": "目标导向",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
-          "word": "Spontaneous",
+          "word": "心血来潮地",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "Thoughtful",
+          "word": "考虑周全",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Inquisitive",
+          "word": "好奇",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "Strong-willed",
+          "word": "执着",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "Likes New Ideas",
+          "word": "喜欢新点子",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "Patient",
+          "word": "有耐心",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "Persistent",
+          "word": "坚持不懈",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,25 +228,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Self-reliant",
+          "word": "自立",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
-          "word": "Optimistic",
+          "word": "乐观",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
-          "word": "Good Listener",
+          "word": "倾听者",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "Sensitive",
+          "word": "敏感",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,25 +256,25 @@
       "words": [
         {
           "id": 36,
-          "word": "Directive",
+          "word": "指令明确",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "Takes Risks",
+          "word": "喜欢冒险",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "Loyal",
+          "word": "忠诚",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "Accurate",
+          "word": "精准",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,25 +284,25 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "承担责任",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
-          "word": "Motivator",
+          "word": "鼓励他人",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 42,
-          "word": "Even-keeled",
+          "word": "追求稳定",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "自律",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,25 +312,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "意志坚定",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "喜欢口述表达",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "让步",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "行为模式可预测",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "企业家精神",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "友好",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "优柔募断",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "有序的",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,25 +368,25 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "喜欢竞争",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "Popular",
+          "word": "受欢迎",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "不喜欢变化",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "认真尽责",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "高效的",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "喜好多样化",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "冷幽默",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "眼光敏锐地",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -424,25 +424,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "目的性强",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "团体导向",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "富有同情心",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "分析型",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,25 +452,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "喜欢尝试",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "发起者",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "培育他人",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "精准的",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -480,25 +480,25 @@
       "words": [
         {
           "id": 68,
-          "word": "Independent",
+          "word": "独立",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "给人以启发的",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 70,
-          "word": "Tolerant",
+          "word": "能够忍让",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "按既定安排事的",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,25 +508,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "行为导向",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "喜欢变化",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "和平者",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "深思熟虑",
           "leadershipTypeId": 3,
           "rank": null
         }
