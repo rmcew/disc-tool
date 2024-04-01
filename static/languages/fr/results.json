@@ -1,0 +1,29 @@
+{
+  "heading": "Félicitations pour avoir complété l'évaluation!",
+  "primaryText": "Votre profil de personnalité principal est le suivant",
+  "secondaryText": "Votre profil de personnalité secondaire est le suivant",
+  "attributes":[
+    {
+      "name": "DOMINANCE",
+      "definition": "résout les défis, stimule l'action et les résultats, et avance à un rythme rapide.",
+      "color": "rgb(0, 112, 192)"
+    },
+    {
+      "name": "INFLUENCE",
+      "definition": "Tire de l'énergie des gens, est enthousiaste et préfère la participation en groupe.",
+      "color": "rgb(255, 192, 0)"
+    },
+    {
+      "name": "STABILITÉ",
+      "definition": "est loyal, écoute bien, utilise des compétences spécialisées et utilise une approche calme.",
+      "color": "rgb(112, 173, 71)"
+    },
+    {
+      "name": "CONFORMITÉ",
+      "definition": "suit les reglès, se concentre sur les détails, pense de manière analytique, agit diplomatiquement.",
+      "color": "rgb(255, 0, 0)"
+    }
+  ],
+  "descriptionText": "Nous sommes tous un mélange des 4 types de personnalité qui se combinent pour rendre chacun de nous unique.",
+  "button": "Télécharger et enregistrer"
+}

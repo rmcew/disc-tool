@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Faites glisser et déposez les mots à gauche dans un ordre de classement à droite qui correspond le mieux à votre vision de vous-même.",
+  "scale":[
+    "Beaucoup",
+    "La plupart du temps",
+    "Parfois",
+    "Rarement"
+  ],
+  "resetButton": "RÉINITIALISATION",
+  "nextButton": "PROCHAIN"
+}
