@@ -1,0 +1,29 @@
+{
+  "heading": "¡Felicitaciones por completar la evaluación!",
+  "primaryText": "Su perfil de personalidad principal es",
+  "secondaryText": "Su perfil de personalidad secundario es",
+  "attributes":[
+    {
+      "name": "DOMINIO",
+      "definition": "Resuelve desafíos, impulsa acciones y resultados, y avanza a un ritmo rápido.",
+      "color": "rgb(0, 112, 192)"
+    },
+    {
+      "name": "INFLUENCIA",
+      "definition": "Obtiene energía de la gente, es entusiasta y prefiere la participación en grupo.",
+      "color": "rgb(255, 192, 0)"
+    },
+    {
+      "name": "FIRMEZA",
+      "definition": "Es leal, escucha bien, emplea habilidades especializadas y utiliza un enfoque tranquilo.",
+      "color": "rgb(112, 173, 71)"
+    },
+    {
+      "name": "COMFORMIDAD",
+      "definition": "Sigue roles, se centra en los detalles, piensa analíticamente, actúa diplomáticamente.",
+      "color": "rgb(255, 0, 0)"
+    }
+  ],
+  "descriptionText": "Todos tenemos una mezcla de los 4 tipos de personalidad que se combinan para hacernos únicos.",
+  "button": "Descargar y guardar"
+}

@@ -1,0 +1,11 @@
+{
+  "instructionsText": "Arrastre las palabras en la izquierda y organícelas a la derecha de tal manera que se ajusten mejor con a su visión de si mismo.",
+  "scale":[
+    "Mucho",
+    "Mayoría de las veces",
+    "A veces",
+    "Casi nunca"
+  ],
+  "resetButton": "REINICIAR",
+  "nextButton": "SIGUIENTE"
+}
