@@ -1,0 +1,536 @@
+{
+  "wordGroups": [
+    {
+      "words": [
+        {
+          "id": 0,
+          "word": "Likes Control",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "Enthusiastic",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "Sensitive",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "Consistent",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 4,
+          "word": "Confident",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "Visionary",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "Calm",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "Reserved",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        { 
+          "id": 8, 
+          "word": "Firm", 
+          "leadershipTypeId": 0, 
+          "rank": null 
+        },
+        {
+          "id": 9,
+          "word": "Energetic",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "Non-demanding",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "Practical",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 12,
+          "word": "Likes Change",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "Promoter",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "Enjoys Routine",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "Factual",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 16,
+          "word": "Problem Solver",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "Mixes Easily",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "Relational",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "Perfectionist",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 20,
+          "word": "Bold",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "Fun-loving",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "Adaptable",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "Detailed",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 24,
+          "word": "Goal Driven",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "Spontaneous",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "Thoughtful",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "Inquisitive",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 28,
+          "word": "Strong-willed",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "Likes New Ideas",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "Patient",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "Persistent",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 32,
+          "word": "Self-reliant",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "Optimistic",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "Good Listener",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "Sensitive",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 36,
+          "word": "Directive",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "Takes Risks",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "Loyal",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "Accurate",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 40,
+          "word": "Takes Charge",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "Motivator",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "Balanced",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "Controlled",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 44,
+          "word": "Determined",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "Very Verbal",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "Gives In",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "Predictable",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 48,
+          "word": "Enterprising",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "Friendly",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "Indecisive",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "Orderly",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 52,
+          "word": "Competitive",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "Popular",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "Dislikes Change",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "Conscientious",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 56,
+          "word": "Productive",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "Enjoys Variety",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "Dry Humor",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "Discerning",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 60,
+          "word": "Purposeful",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "Group-oriented",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "Sympathetic",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "Analytical",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 64,
+          "word": "Adventurous",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "Initiator",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "Nurturing",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "Precise",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 68,
+          "word": "Independent",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "Inspirational",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "Tolerant",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "Scheduled",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 72,
+          "word": "Action-oriented",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "Likes Change",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "Peacemaker",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "Deliberate",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    }
+  ]
+}
