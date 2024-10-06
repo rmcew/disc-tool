@@ -4,25 +4,25 @@
       "words": [
         {
           "id": 0,
-          "word": "Likes Control",
+          "word": "Басқарғанды ұнататын",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 1,
-          "word": "Enthusiastic",
+          "word": "Ынталы",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 2,
-          "word": "Sensitive",
+          "word": "Сезімтал",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 3,
-          "word": "Consistent",
+          "word": "Тұрақты",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -32,25 +32,25 @@
       "words": [
         {
           "id": 4,
-          "word": "Confident",
+          "word": "Өз-өзіне сенімді",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 5,
-          "word": "Visionary",
+          "word": "Көреген",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 6,
-          "word": "Calm",
+          "word": "Тыныш",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "Reserved",
+          "word": "Тұйық",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "Firm", 
+          "word": "Нық", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "Energetic",
+          "word": "Қайратты",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "Non-demanding",
+          "word": "Талап етпейтін",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "Practical",
+          "word": "Епті (пысық)",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,25 +88,25 @@
       "words": [
         {
           "id": 12,
-          "word": "Likes Change",
+          "word": "Өзгерістерді ұнататын",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 13,
-          "word": "Promoter",
+          "word": "Алға тартатын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 14,
-          "word": "Enjoys Routine",
+          "word": "Бірқалыптылықты ұнататын",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "Factual",
+          "word": "Фактілерге жүгінетін",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -116,25 +116,25 @@
       "words": [
         {
           "id": 16,
-          "word": "Problem Solver",
+          "word": "Қиындықтарды шешетін",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 17,
-          "word": "Mixes Easily",
+          "word": "Адамға үйір",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "Relational",
+          "word": "Басқалармен қарым-қатынас құратын",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "Perfectionist",
+          "word": "Перфекционист",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,25 +144,25 @@
       "words": [
         {
           "id": 20,
-          "word": "Bold",
+          "word": "Батыл",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "Fun-loving",
+          "word": "Көңілді",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 22,
-          "word": "Adaptable",
+          "word": "Икемделетін",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 23,
-          "word": "Detailed",
+          "word": "Бүге-шүгесіне дейін көңіл бөлетін",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -172,25 +172,25 @@
       "words": [
         {
           "id": 24,
-          "word": "Goal Driven",
+          "word": "Алдына мақсат қоятын",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 25,
-          "word": "Spontaneous",
+          "word": "Күрт қимылдайтын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "Thoughtful",
+          "word": "Терең ойлы",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 27,
-          "word": "Inquisitive",
+          "word": "Ізденімпаз",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "Strong-willed",
+          "word": "Ерік-жігері мықты",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "Likes New Ideas",
+          "word": "Жаңа жолдарды іздейтін",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "Patient",
+          "word": "Шыдамды",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "Persistent",
+          "word": "Қайтпайтын",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,25 +228,25 @@
       "words": [
         {
           "id": 32,
-          "word": "Self-reliant",
+          "word": "Өз бетінше әрекет ететін",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 33,
-          "word": "Optimistic",
+          "word": "Мұңаймайтын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 34,
-          "word": "Good Listener",
+          "word": "Ден қойып тыңдайтын",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 35,
-          "word": "Sensitive",
+          "word": "Нәзік",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -256,25 +256,25 @@
       "words": [
         {
           "id": 36,
-          "word": "Directive",
+          "word": "Тіке сөйлейтін",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "Takes Risks",
+          "word": "Тәуекелге баратын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "Loyal",
+          "word": "Адал",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 39,
-          "word": "Accurate",
+          "word": "Ұқыпты",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -284,25 +284,25 @@
       "words": [
         {
           "id": 40,
-          "word": "Takes Charge",
+          "word": "Жауапкершілікті",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 41,
-          "word": "Motivator",
+          "word": "Ынталандырушы",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 42,
-          "word": "Balanced",
+          "word": "Байсалды",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "Controlled",
+          "word": "Ұстамды",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -312,25 +312,25 @@
       "words": [
         {
           "id": 44,
-          "word": "Determined",
+          "word": "Тайсалмайтын",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 45,
-          "word": "Very Verbal",
+          "word": "Сөзшең",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "Gives In",
+          "word": "Көнетін",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "Predictable",
+          "word": "Ашық-жарқын",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "Enterprising",
+          "word": "Іскер",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "Friendly",
+          "word": "Жылы шырайлы",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "Indecisive",
+          "word": "Жасқаншақ",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "Orderly",
+          "word": "Жинақы",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,25 +368,25 @@
       "words": [
         {
           "id": 52,
-          "word": "Competitive",
+          "word": "Басекеге қабілетті",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "Popular",
+          "word": "Танымал",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
-          "word": "Dislikes Change",
+          "word": "Өзгерістерді ұнатпайтын",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "Conscientious",
+          "word": "Адамгершілікті",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "Productive",
+          "word": "Нәтиже шығаратын",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "Enjoys Variety",
+          "word": "Әртүрлілікті ұнататын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "Dry Humor",
+          "word": "Мысқылшыл",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "Discerning",
+          "word": "Байқағыш",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -424,25 +424,25 @@
       "words": [
         {
           "id": 60,
-          "word": "Purposeful",
+          "word": "Мақсатқа ұмтылатын",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 61,
-          "word": "Group-oriented",
+          "word": "Көпшіліктің қамын ойлайтын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "Sympathetic",
+          "word": "Жанашыр",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 63,
-          "word": "Analytical",
+          "word": "Аналитикалық жағынан мықты",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -452,25 +452,25 @@
       "words": [
         {
           "id": 64,
-          "word": "Adventurous",
+          "word": "Ержүрек",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 65,
-          "word": "Initiator",
+          "word": "Қозғау салатын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "Nurturing",
+          "word": "Қамқор",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 67,
-          "word": "Precise",
+          "word": "Қатал",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -480,25 +480,25 @@
       "words": [
         {
           "id": 68,
-          "word": "Independent",
+          "word": "Тәуелсіз",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 69,
-          "word": "Inspirational",
+          "word": "Шабыт беретін",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 70,
-          "word": "Tolerant",
+          "word": "Сабырлы",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
-          "word": "Scheduled",
+          "word": "Жоспар бойынша жүретін",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -508,25 +508,25 @@
       "words": [
         {
           "id": 72,
-          "word": "Action-oriented",
+          "word": "Әрекет ететін",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 73,
-          "word": "Likes Change",
+          "word": "Өзгерістерді ұнататын",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 74,
-          "word": "Peacemaker",
+          "word": "Достастырушы",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "Deliberate",
+          "word": "Сақ адам",
           "leadershipTypeId": 3,
           "rank": null
         }
