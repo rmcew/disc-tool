@@ -1,0 +1,536 @@
+{
+  "wordGroups": [
+    {
+      "words": [
+        {
+          "id": 0,
+          "word": "नियंत्रण पसंद",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "उत्साही",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "संवेदनशील",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "सुसंगत",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 4,
+          "word": "विश्वासी",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "दूरदर्शी",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "शांत",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "अंतमुर्खी",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        { 
+          "id": 8, 
+          "word": "दृढ़", 
+          "leadershipTypeId": 0, 
+          "rank": null 
+        },
+        {
+          "id": 9,
+          "word": "ऊर्जावान",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "गैर-मांग",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "व्यावहारिक",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 12,
+          "word": "परिवर्तन पसंद",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "प्रवर्तक",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "दिनचर्या पसंद",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "तथ्यात्मक",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 16,
+          "word": "समस्या समाधानकर्ता",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "आसानी से घुलमिल जाता है",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "संबंधपरक",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "पूर्णतावादी",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 20,
+          "word": "साहसी",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "मज़ेदार",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "अनुकूलनीय",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "विस्तृत",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 24,
+          "word": "विस्तृत",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "सहज",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "विचारशील",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "जिज्ञासु",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 28,
+          "word": "जिज्ञासु",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "पसंद नए विचार",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "धैर्यवान",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "दृढ़",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 32,
+          "word": "आत्मनिर्भर",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "आशावादी",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "अच्छा श्रोता",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "संवेदनशील",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 36,
+          "word": "संवेदनशील",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "संवेदनशील",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "संवेदनशील",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "सटीक",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 40,
+          "word": "सटीक",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "प्रेरक",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "संतुलित",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "नियंत्रित",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 44,
+          "word": "दृढ़ निश्चयी",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "बहुत मौखिक",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "हार मान लेता है ",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "विशेष तरीके से काम करता है",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 48,
+          "word": "विशेष तरीके से काम करता है",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "मिलनसार",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "अनिर्णायक",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "व्यवस्थित व्यक्ति",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 52,
+          "word": "व्यवस्थित व्यक्ति",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "लोकप्रिय",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "बदलाव प्रतिरोधक",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "ईमानदार",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 56,
+          "word": "उत्पादक",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "विविधता पसंद",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "शुष्क हास्य",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "विवेकशील",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 60,
+          "word": "उद्देश्यपूर्ण",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "समूह-उन्मुख",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "सहानुभूतिपूर्ण",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "विश्लेषणात्मक",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 64,
+          "word": "साहसी",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "आरंभकर्ता",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "पोषण",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "सटीक",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 68,
+          "word": "स्वतंत्र",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "प्रेरणादायक",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "सहनशील",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "अनुसूचित",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 72,
+          "word": "कार्रवाई-उन्मुख",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "परिवर्तनवादी",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "शांतिप्रिय",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "प्रयासत",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    }
+  ]
+}
