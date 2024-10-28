@@ -172,7 +172,7 @@
       "words": [
         {
           "id": 24,
-          "word": "विस्तृत",
+          "word": "लक्ष्य प्रेरित",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -200,7 +200,7 @@
       "words": [
         {
           "id": 28,
-          "word": "जिज्ञासु",
+          "word": "दृढ़ इच्छाशक्ति",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -256,19 +256,19 @@
       "words": [
         {
           "id": 36,
-          "word": "संवेदनशील",
+          "word": "निर्देशक",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 37,
-          "word": "संवेदनशील",
+          "word": "जोखिम लेता है",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 38,
-          "word": "संवेदनशील",
+          "word": "वफादार",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -284,7 +284,7 @@
       "words": [
         {
           "id": 40,
-          "word": "सटीक",
+          "word": "प्रभार लेता है",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -340,7 +340,7 @@
       "words": [
         {
           "id": 48,
-          "word": "विशेष तरीके से काम करता है",
+          "word": "उद्यमी",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -368,7 +368,7 @@
       "words": [
         {
           "id": 52,
-          "word": "व्यवस्थित व्यक्ति",
+          "word": "स्पर्धात्मक",
           "leadershipTypeId": 0,
           "rank": null
         },
