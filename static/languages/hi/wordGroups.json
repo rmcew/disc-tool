@@ -72,7 +72,7 @@
         },
         {
           "id": 10,
-          "word": "गैर-मांग",
+          "word": "व्यर्थ मांग नहीं करता",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -206,7 +206,7 @@
         },
         {
           "id": 29,
-          "word": "पसंद नए विचार",
+          "word": "नए विचार पसंद",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -526,7 +526,7 @@
         },
         {
           "id": 75,
-          "word": "प्रयासत",
+          "word": "प्रयासरत",
           "leadershipTypeId": 3,
           "rank": null
         }
