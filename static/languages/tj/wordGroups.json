@@ -1,0 +1,536 @@
+{
+  "wordGroups": [
+    {
+      "words": [
+        {
+          "id": 0,
+          "word": "Назоратдӯстдор",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 1,
+          "word": "Шавқманд",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 2,
+          "word": "Ҳассос",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 3,
+          "word": "Устувор",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 4,
+          "word": "Боэътимод",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 5,
+          "word": "Дурбин",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 6,
+          "word": "Ором",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 7,
+          "word": "Худдор",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        { 
+          "id": 8, 
+          "word": "Сахтгир", 
+          "leadershipTypeId": 0, 
+          "rank": null 
+        },
+        {
+          "id": 9,
+          "word": "Пурҳаракат",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 10,
+          "word": "Камталаб",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 11,
+          "word": "Амалӣ",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 12,
+          "word": "Дигаргуниро дӯст медорад",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "Промоутер",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "Реҷадӯстдор",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "Воқеӣ",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 16,
+          "word": "Ҳалкунандаи мушкилот",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "Чақ-чақӣ",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "Одамдӯстдор",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "Комилгаро",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 20,
+          "word": "Ҷасур",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "Шӯх",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "Мутобиқшаванда",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "Муфассал",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 24,
+          "word": "Мақсаднок",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "Тахминӣ",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "Дурандеш",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "Кунҷков",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 28,
+          "word": "Қавиирода",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "идеяҳои навро дӯст медорад",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "Пуртоқат",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "Боисрор",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 32,
+          "word": "Мустақил",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "Оптимист",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "Гушкунандаи хуб",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "Ҳассос",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 36,
+          "word": "Ростгӯй",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "Тавакаллӣ",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "Вафодор",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "Дурусткор",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 40,
+          "word": "Масъулиятнок",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "Рӯҳбаландкунанда",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "Мӯътадил",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "Худидоракунанда",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 44,
+          "word": "Боҷуръат",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "Озодсухан",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "Гапдаро",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "Пешгӯйишаванда",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 48,
+          "word": "Боихтиёр",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "Меҳрубон",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "Дудила",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "Ботанзим",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 52,
+          "word": "Рақобатпазир",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "Машҳур",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "Дигаргуниро дӯст намедорад",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "Бовиҷдон",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 56,
+          "word": "Самаранок",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "Дӯстдори гуногунӣ",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "Шӯхиҳои хушк дорад",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "Бофаҳм",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 60,
+          "word": "Мақсаднок",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "Ба гурӯҳ нигаронидашуда",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "Дилсӯз",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "Таҳлилгар",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 64,
+          "word": "Моҷароҷӯ",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "Ташаббускор",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "Дасткушод",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "Дақиқ",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 68,
+          "word": "Мустақил",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "Рӯҳбаландкунанда",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "Таҳаммулпазир",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "Нақшакаш",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 72,
+          "word": "Фаъол",
+          "leadershipTypeId": 0,
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "Дигаргуниро дӯст медорад",
+          "leadershipTypeId": 1,
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "Сулҳҷӯ",
+          "leadershipTypeId": 2,
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "Боандеша",
+          "leadershipTypeId": 3,
+          "rank": null
+        }
+      ]
+    }
+  ]
+}
