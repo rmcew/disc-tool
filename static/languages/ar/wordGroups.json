@@ -4,13 +4,13 @@
       "words": [
         {
           "id": 0,
-          "word": "يحب السيطرة",
+          "word": "يحب التحكم",
           "leadershipTypeId": "0",
           "rank": null
         },
         {
           "id": 1,
-          "word": "حماسي",
+          "word": "متحمس",
           "leadershipTypeId": "1",
           "rank": null
         },
@@ -38,7 +38,7 @@
         },
         {
           "id": 5,
-          "word": "رؤية",
+          "word": "رؤيوي",
           "leadershipTypeId": "1",
           "rank": null
         },
@@ -50,7 +50,7 @@
         },
         {
           "id": 7,
-          "word": "محفوظ",
+          "word": "متحفظ",
           "leadershipTypeId": "3",
           "rank": null
         }
@@ -60,7 +60,7 @@
       "words": [
         {
           "id": 8,
-          "word": "صلب",
+          "word": "يحب التغيير",
           "leadershipTypeId": "0",
           "rank": null
         },
@@ -72,13 +72,461 @@
         },
         {
           "id": 10,
-          "word": "غير مطالب",
+          "word": "غير متطلب",
           "leadershipTypeId": "2",
           "rank": null
         },
         {
           "id": 11,
           "word": "عملي",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 12,
+          "word": "يحب التغيير",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 13,
+          "word": "مروج",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 14,
+          "word": "يتمتع بالروتين",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 15,
+          "word": "واقعي",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 16,
+          "word": "حلال مشاكل",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 17,
+          "word": "يختلط بسهولة",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 18,
+          "word": "يحب علاقات",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 19,
+          "word": "مثالي",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 20,
+          "word": "جريء",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 21,
+          "word": "يحب المرح",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 22,
+          "word": "قابل للتكيف",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 23,
+          "word": "يحب التفاصيل",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 24,
+          "word": "مدفوع بالهدف",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 25,
+          "word": "تلقائي ",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 26,
+          "word": "وقور",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 27,
+          "word": "فضولي",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 28,
+          "word": "قوي الإرادة",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 29,
+          "word": "يحب الأفكار الجديدة",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 30,
+          "word": "صبور",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 31,
+          "word": "مثابر",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 32,
+          "word": "معتمد على الذات",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 33,
+          "word": "مستبشر - إيجابي",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 34,
+          "word": "مستمع جيد",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 35,
+          "word": "حساس",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 36,
+          "word": "توجيهي - قيادي",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 37,
+          "word": "مخاطر",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 38,
+          "word": "مخلص",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 39,
+          "word": "دقيق",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 40,
+          "word": "يأخذ المسؤلية",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 41,
+          "word": "محفز",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 42,
+          "word": "متزن",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 43,
+          "word": "مسيطر على ذاته",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 44,
+          "word": "محدد - حازم",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 45,
+          "word": "كثير الكلام",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 46,
+          "word": "متنازل",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 47,
+          "word": "يمكن التنبؤ به - ",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 48,
+          "word": "مبادر",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 49,
+          "word": "ودود",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 50,
+          "word": "غير حاسم",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 51,
+          "word": "منظم",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 52,
+          "word": "تنافسي",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 53,
+          "word": "مشهور",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 54,
+          "word": "يكره التغيير",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 55,
+          "word": "ضميره حي",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 56,
+          "word": "إنتاجي",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 57,
+          "word": "يتمتع بالتنوع",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 58,
+          "word": "ذو فكاهة جافة",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 59,
+          "word": "ذو فطنة",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 60,
+          "word": "هادف",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 61,
+          "word": "موجه لصالح الجماعة",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 62,
+          "word": "متعاطف",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 63,
+          "word": "تحليلي",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 64,
+          "word": "مغامر",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 65,
+          "word": "مبادر",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 66,
+          "word": "يهتم بالاخرين",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 67,
+          "word": "دقيق",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 68,
+          "word": "مستقل",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 69,
+          "word": "ملهم",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 70,
+          "word": "متساهل",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 71,
+          "word": "الممنهج",
+          "leadershipTypeId": "3",
+          "rank": null
+        }
+      ]
+    },
+    {
+      "words": [
+        {
+          "id": 72,
+          "word": "موجه بالعمل",
+          "leadershipTypeId": "0",
+          "rank": null
+        },
+        {
+          "id": 73,
+          "word": "يحب التغيير",
+          "leadershipTypeId": "1",
+          "rank": null
+        },
+        {
+          "id": 74,
+          "word": "صانع السلام",
+          "leadershipTypeId": "2",
+          "rank": null
+        },
+        {
+          "id": 75,
+          "word": "متعمد",
           "leadershipTypeId": "3",
           "rank": null
         }
