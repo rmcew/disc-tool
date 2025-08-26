@@ -4,7 +4,7 @@
       "words": [
         {
           "id": 0,
-          "word": "حەز بە کۆنترۆڵکردن",
+          "word": "ئارەزووی کۆنتڕۆڵکردن",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -22,7 +22,7 @@
         },
         {
           "id": 3,
-          "word": "نەگۆڕ",
+          "word": "بەردەوام(وازنەهێنان)",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -32,7 +32,7 @@
       "words": [
         {
           "id": 4,
-          "word": "باوەڕ بە خۆ",
+          "word": "باوەڕبەخۆبوون",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -44,13 +44,13 @@
         },
         {
           "id": 6,
-          "word": "هێمن",
+          "word": "ئارام",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 7,
-          "word": "هەستەکان دەرناخات",
+          "word": "داخراو(لە دەربڕینی هەست)",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -60,25 +60,25 @@
       "words": [
         { 
           "id": 8, 
-          "word": "جیگیر", 
+          "word": "جێگیر", 
           "leadershipTypeId": 0, 
           "rank": null 
         },
         {
           "id": 9,
-          "word": "پڕوزە",
+          "word": "پڕ وزە",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 10,
-          "word": "ناز ناکات",
+          "word": "سادە",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 11,
-          "word": "کردەکی",
+          "word": "کردە",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -88,7 +88,7 @@
       "words": [
         {
           "id": 12,
-          "word": "حەز بە گۆڕان",
+          "word": "حەز لە گۆڕانکاری",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -100,13 +100,13 @@
         },
         {
           "id": 14,
-          "word": "حەز بە ڕۆتین",
+          "word": "ئارەزووی ڕۆتین",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 15,
-          "word": "واقیعبین",
+          "word": "واقعبین",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -122,19 +122,19 @@
         },
         {
           "id": 17,
-          "word": "بەئاسانی تێکەڵ دەبێت",
+          "word": "تێکەڵ",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 18,
-          "word": "حەز بە پەیوەندی",
+          "word": "بەماریفەت",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 19,
-          "word": "پێڕفێکشنیست",
+          "word": "پێڕفێکشنست(بێخەوشکار)",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -144,13 +144,13 @@
       "words": [
         {
           "id": 20,
-          "word": "بوێر",
+          "word": "چاونەترس",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 21,
-          "word": "ئارەزووی خۆشی",
+          "word": "ئارەزووی جەوی خۆش",
           "leadershipTypeId": 1,
           "rank": null
         },
@@ -162,7 +162,7 @@
         },
         {
           "id": 23,
-          "word": "وردکار",
+          "word": "ورد",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -178,13 +178,13 @@
         },
         {
           "id": 25,
-          "word": "ڕاستەوخۆ",
+          "word": "ئامادە بۆ چاوەڕواننەکراو",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 26,
-          "word": "بیرمەند",
+          "word": "خەمخۆری هەمووان",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -200,25 +200,25 @@
       "words": [
         {
           "id": 28,
-          "word": "ویست بەهێز",
+          "word": "خاوەن ئیرادە",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 29,
-          "word": "حەز بە بیرۆکەی نوێ",
+          "word": "ئارەزووی بیرۆکەی نوێ",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 30,
-          "word": "ئارام",
+          "word": "بەسەبر",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 31,
-          "word": "کۆڵنەدەر",
+          "word": "نەبەرد",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,7 +228,7 @@
       "words": [
         {
           "id": 32,
-          "word": "پشتبەخۆبەستن",
+          "word": "شتبەخۆبەستوو",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -256,7 +256,7 @@
       "words": [
         {
           "id": 36,
-          "word": "ڕێنماییدەر",
+          "word": "هەستیار",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -296,13 +296,13 @@
         },
         {
           "id": 42,
-          "word": "هاوسەنگ",
+          "word": "باڵانس (ناواندگیر)",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "کۆنتڕۆڵ کراو",
+          "word": "کۆنتڕۆڵکراو",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -318,19 +318,19 @@
         },
         {
           "id": 45,
-          "word": "قسەکەر",
+          "word": "زۆر زارەکی",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 46,
-          "word": "ڕازاسوک",
+          "word": "خۆتەرخانکەر",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 47,
-          "word": "پێشبینیکراو",
+          "word": "پێشبینی نەکراو",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -340,25 +340,25 @@
       "words": [
         {
           "id": 48,
-          "word": "هەل قۆزەرەوە",
+          "word": "دەستپێکەر",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 49,
-          "word": "دۆستانە(کراوە)",
+          "word": "کراوە",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 50,
-          "word": "ڕاڕا",
+          "word": "دوودڵ",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 51,
-          "word": "ڕێکخراو",
+          "word": "ڕێکوپێک",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -368,25 +368,25 @@
       "words": [
         {
           "id": 52,
-          "word": "ێشبڕکێکار(منافەسە)",
+          "word": "مونافەسەچی",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 53,
-          "word": "ناودار",
+          "word": "بەناوبانگ",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 54,
-          "word": "حەز بە گۆڕان ناکات",
+          "word": "حەزی لە گۆڕانکاری نییە",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 55,
-          "word": "بەویژدان",
+          "word": "وریا",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -396,25 +396,25 @@
       "words": [
         {
           "id": 56,
-          "word": "بەرهەمهێن",
+          "word": "بەرهەمدار",
           "leadershipTypeId": 0,
           "rank": null
         },
         {
           "id": 57,
-          "word": "ئارەزووی هەمەڕەنگی",
+          "word": "ئارەزووی هەمەچەشنەیی",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 58,
-          "word": "نوکتەی وشک",
+          "word": "نوکتەی بێتام",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 59,
-          "word": "ورد لە هەڵبژاردن",
+          "word": "وردبین",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -430,13 +430,13 @@
         },
         {
           "id": 61,
-          "word": "هاوکارێکی باش لە گروپا",
+          "word": "ئەندامتیپێکی باش",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 62,
-          "word": "هاوسۆزی",
+          "word": "هاوسۆز",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -458,13 +458,13 @@
         },
         {
           "id": 65,
-          "word": "دەستپێکەر",
+          "word": "دەستپێشخەر",
           "leadershipTypeId": 1,
           "rank": null
         },
         {
           "id": 66,
-          "word": "گەشەپێدەر",
+          "word": "مشورخۆر",
           "leadershipTypeId": 2,
           "rank": null
         },
@@ -492,13 +492,13 @@
         },
         {
           "id": 70,
-          "word": "پشوودرێژ",
+          "word": "بەرگەگر",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 71,
-          "word": "بەمەوعید",
+          "word": "خاوەن مەوعید",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -520,13 +520,13 @@
         },
         {
           "id": 74,
-          "word": "ئاشتی دروستکەر",
+          "word": "سوڵحکار",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 75,
-          "word": "خاوەن مەبەستی ڕوون",
+          "word": "خاوەن ویست",
           "leadershipTypeId": 3,
           "rank": null
         }
