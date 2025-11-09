@@ -218,7 +218,7 @@
         },
         {
           "id": 31,
-          "word": "نەبەرد",
+          "word": "کۆڵنەدەر",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -228,7 +228,7 @@
       "words": [
         {
           "id": 32,
-          "word": "شتبەخۆبەستوو",
+          "word": "پشتبەخۆبەستوو",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -256,7 +256,7 @@
       "words": [
         {
           "id": 36,
-          "word": "هەستیار",
+          "word": "ڕێنشاندەر",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -284,7 +284,7 @@
       "words": [
         {
           "id": 40,
-          "word": "بەرپرسیارێتی هەڵگر",
+          "word": "بەرپرسیار",
           "leadershipTypeId": 0,
           "rank": null
         },
@@ -296,13 +296,13 @@
         },
         {
           "id": 42,
-          "word": "باڵانس (ناواندگیر)",
+          "word": "هاوسەنگ",
           "leadershipTypeId": 2,
           "rank": null
         },
         {
           "id": 43,
-          "word": "کۆنتڕۆڵکراو",
+          "word": "ئارامگر",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -414,7 +414,7 @@
         },
         {
           "id": 59,
-          "word": "وردبین",
+          "word": "تێگەیشتوو",
           "leadershipTypeId": 3,
           "rank": null
         }
@@ -492,7 +492,7 @@
         },
         {
           "id": 70,
-          "word": "بەرگەگر",
+          "word": "خۆڕاگر",
           "leadershipTypeId": 2,
           "rank": null
         },
